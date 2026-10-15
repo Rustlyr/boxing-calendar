@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boxing (PBC / Riyadh Season)
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:boxcal-7658@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T183309Z
+LAST-MODIFIED:20261015T183309Z
+DTSTART:20261018T000000Z
+DTEND:20261018T040000Z
+SUMMARY:Sebastian Fundora-Ermal Hadribeaj
+LOCATION:The Cosmopolitan of Las Vegas\, Las Vegas\, Nevada
+DESCRIPTION:Sebastian Fundora Vs. Ermal Hadribeaj\nBrandon Figueroa Vs. Tom
+ oki Kameda\nJermall Charlo Vs. Koen Mazoudier\n\nถ่ายทอด: TN
+ T Sports\, DAZN\nเริ่ม: 20:00 EST (เวลาท้องถ
+ ิ่นของรายการ)\nhttps://www.boxingscene.com/events/
+ sebastian-fundora-ermal-hadribeaj
+URL:https://www.boxingscene.com/events/sebastian-fundora-ermal-hadribeaj
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sebastian Fundora-Ermal Hadribeaj
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7326@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T183309Z
+LAST-MODIFIED:20261015T183309Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Alvarez vs. Mbilli
+LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
+DESCRIPTION:Saul "Canelo" Alvarez Vs. Christian Mbilli\n\nถ่ายท
+ อด: DAZN\nเริ่ม: ยังไม่ประกาศเว
+ ลา\nhttps://www.boxingscene.com/events/alvarez-vs-mbilli
+URL:https://www.boxingscene.com/events/alvarez-vs-mbilli
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Alvarez vs. Mbilli
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
