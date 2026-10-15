@@ -17,96 +17,6 @@ TZNAME:+07
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:boxcal-pbc-2026-03-28@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T184642Z
-LAST-MODIFIED:20261015T184642Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260329
-SUMMARY:Sebastian Fundora vs Keith Thurman
-LOCATION:MGM Grand Garden Arena\, Las Vegas\, NV
-DESCRIPTION:Sebastian Fundora vs Keith Thurman\n\nถ่ายทอด: -\
- nเริ่ม: ยังไม่ประกาศเวลา\nhttps:
- //www.premierboxingchampions.com/events/past
-URL:https://www.premierboxingchampions.com/events/past
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:boxcal-pbc-2026-04-04@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T184642Z
-LAST-MODIFIED:20261015T184642Z
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
-SUMMARY:Tim Tszyu vs Denis Nurja
-LOCATION:Wollongong Entertainment Centre\, Australia
-DESCRIPTION:Tim Tszyu vs Denis Nurja\n\nถ่ายทอด: -\nเริ
- ่ม: ยังไม่ประกาศเวลา\nhttps://www.prem
- ierboxingchampions.com/events/past
-URL:https://www.premierboxingchampions.com/events/past
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:boxcal-pbc-2026-05-02@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T184642Z
-LAST-MODIFIED:20261015T184642Z
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
-SUMMARY:David Benavidez vs Gilberto Ramirez
-LOCATION:T-Mobile Arena\, Las Vegas\, Nevada
-DESCRIPTION:David Benavidez vs Gilberto Ramirez\n\nถ่ายทอด: -
- \nเริ่ม: ยังไม่ประกาศเวลา\nhttps
- ://www.premierboxingchampions.com/events/past
-URL:https://www.premierboxingchampions.com/events/past
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:boxcal-pbc-2026-07-25@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T184642Z
-LAST-MODIFIED:20261015T184642Z
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-SUMMARY:Errol Spence Jr vs Tim Tszyu
-LOCATION:Afterpay Arena\, Sydney\, Australia
-DESCRIPTION:Errol Spence Jr vs Tim Tszyu\n\nถ่ายทอด: -\nเ
- ริ่ม: ยังไม่ประกาศเวลา\nhttps://ww
- w.premierboxingchampions.com/events/past
-URL:https://www.premierboxingchampions.com/events/past
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:boxcal-pbc-2026-08-22@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T184642Z
-LAST-MODIFIED:20261015T184642Z
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:Rolando Romero vs Teofimo Lopez
-LOCATION:T-Mobile Arena\, Las Vegas\, Nevada
-DESCRIPTION:Rolando Romero vs Teofimo Lopez\n\nถ่ายทอด: -\n
- เริ่ม: ยังไม่ประกาศเวลา\nhttps:/
- /www.premierboxingchampions.com/events/past
-URL:https://www.premierboxingchampions.com/events/past
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:boxcal-pbc-2026-09-19@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T184642Z
-LAST-MODIFIED:20261015T184642Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:Isaac Cruz vs Nestor Bravo
-LOCATION:Pechanga Arena\, San Diego\, California
-DESCRIPTION:Isaac Cruz vs Nestor Bravo\n\nถ่ายทอด: -\nเร
- ิ่ม: ยังไม่ประกาศเวลา\nhttps://www.p
- remierboxingchampions.com/events/past
-URL:https://www.premierboxingchampions.com/events/past
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:boxcal-7658@boxingscene.com
 SEQUENCE:0
 DTSTAMP:20261015T183309Z
@@ -124,7 +34,7 @@ URL:https://www.boxingscene.com/events/sebastian-fundora-ermal-hadribeaj
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Sebastian Fundora-Ermal Hadribeaj
+DESCRIPTION:Sebastian Fundora vs Ermal Hadribeaj
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
@@ -144,7 +54,7 @@ URL:https://www.boxingscene.com/events/daniel-dubois-fabio-wardley
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Daniel Dubois-Fabio Wardley
+DESCRIPTION:Daniel Dubois vs Fabio Wardley 2
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
@@ -164,7 +74,7 @@ URL:https://www.boxingscene.com/events/smith-vs-puello
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Smith vs. Puello
+DESCRIPTION:Dalton Smith vs Alberto Puello
 TRIGGER:PT9H
 END:VALARM
 END:VEVENT
@@ -185,7 +95,7 @@ URL:https://www.boxingscene.com/events/emanuel-navarrete-oshaquie-foster
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Emanuel Navarrete-O'Shaquie Foster
+DESCRIPTION:Emanuel Navarrete vs O'Shaquie Foster
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
@@ -205,7 +115,7 @@ URL:https://www.boxingscene.com/events/alvarez-vs-mbilli
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Alvarez vs. Mbilli
+DESCRIPTION:Saul "Canelo" Alvarez vs Christian Mbilli
 TRIGGER:PT9H
 END:VALARM
 END:VEVENT
@@ -226,7 +136,7 @@ URL:https://www.boxingscene.com/events/joshua-buatsi-willy-hutchinson-2
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Joshua Buatsi-Willy Hutchinson 2
+DESCRIPTION:Joshua Buatsi vs Willy Hutchinson 2
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
@@ -246,7 +156,7 @@ URL:https://www.boxingscene.com/events/tyson-fury-anthony-joshua
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Tyson Fury-Anthony Joshua
+DESCRIPTION:Tyson Fury vs Anthony Joshua
 TRIGGER:PT9H
 END:VALARM
 END:VEVENT
