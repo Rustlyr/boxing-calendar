@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//boxcal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Boxing (PBC / Riyadh Season)
+X-WR-CALNAME:Boxing (PBC / Riyadh / DAZN / Netflix)
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
@@ -119,6 +119,68 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:boxcal-7724@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T184855Z
+LAST-MODIFIED:20261015T184855Z
+DTSTART:20261017T180000Z
+DTEND:20261017T220000Z
+SUMMARY:Daniel Dubois-Fabio Wardley
+LOCATION:The O2 Arena\, London\, United Kingdom
+DESCRIPTION:Daniel Dubois Vs. Fabio Wardley 2\n\nถ่ายทอด: DAZ
+ N\nเริ่ม: 14:00 EST (เวลาท้องถิ่นขอ
+ งรายการ)\nhttps://www.boxingscene.com/events/daniel-dubois-f
+ abio-wardley
+URL:https://www.boxingscene.com/events/daniel-dubois-fabio-wardley
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Daniel Dubois-Fabio Wardley
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7325@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T184855Z
+LAST-MODIFIED:20261015T184855Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Smith vs. Puello
+LOCATION:Utilita Arena Sheffield\, Sheffield\, United Kingdom
+DESCRIPTION:Dalton Smith Vs. Alberto Puello\n\nถ่ายทอด: DAZN\
+ nเริ่ม: ยังไม่ประกาศเวลา\nhttps:
+ //www.boxingscene.com/events/smith-vs-puello
+URL:https://www.boxingscene.com/events/smith-vs-puello
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Smith vs. Puello
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7590@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T184855Z
+LAST-MODIFIED:20261015T184855Z
+DTSTART:20261025T000000Z
+DTEND:20261025T040000Z
+SUMMARY:Emanuel Navarrete-O'Shaquie Foster
+LOCATION:Frost Bank Center\, San Antonio\, Texas
+DESCRIPTION:Emanuel Navarrete Vs. O'Shaquie Foster\nAlbert Gonzalez Vs. Edw
+ ard Vazquez\n\nถ่ายทอด: DAZN\nเริ่ม: 20:00 EST (
+ เวลาท้องถิ่นของรายการ)\nhttps://
+ www.boxingscene.com/events/emanuel-navarrete-oshaquie-foster
+URL:https://www.boxingscene.com/events/emanuel-navarrete-oshaquie-foster
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Emanuel Navarrete-O'Shaquie Foster
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:boxcal-7326@boxingscene.com
 SEQUENCE:0
 DTSTAMP:20261015T183309Z
@@ -135,6 +197,48 @@ STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Alvarez vs. Mbilli
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-8059@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T184855Z
+LAST-MODIFIED:20261015T184855Z
+DTSTART:20261107T190000Z
+DTEND:20261107T230000Z
+SUMMARY:Joshua Buatsi-Willy Hutchinson 2
+LOCATION:Manchester Arena\, Manchester\, United Kingdom
+DESCRIPTION:Jack Rafferty Vs. Hovhannes Martirosyan\nZak Miller Vs. Gully P
+ owar\nJoshua Buatsi Vs. Willy Hutchinson 2\n\nถ่ายทอด: DAZN\
+ nเริ่ม: 14:00 EST (เวลาท้องถิ่นของ
+ รายการ)\nhttps://www.boxingscene.com/events/joshua-buatsi-will
+ y-hutchinson-2
+URL:https://www.boxingscene.com/events/joshua-buatsi-willy-hutchinson-2
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Joshua Buatsi-Willy Hutchinson 2
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7893@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T184855Z
+LAST-MODIFIED:20261015T184855Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Tyson Fury-Anthony Joshua
+LOCATION:Principality Stadium\, Cardiff\, United Kingdom
+DESCRIPTION:Tyson Fury Vs. Anthony Joshua\n\nถ่ายทอด: Netflix
+ \nเริ่ม: ยังไม่ประกาศเวลา\nhttps
+ ://www.boxingscene.com/events/tyson-fury-anthony-joshua
+URL:https://www.boxingscene.com/events/tyson-fury-anthony-joshua
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tyson Fury-Anthony Joshua
 TRIGGER:PT9H
 END:VALARM
 END:VEVENT
