@@ -4,8 +4,18 @@ PRODID:-//boxcal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Boxing (PBC / Riyadh / DAZN / Netflix)
+X-WR-TIMEZONE:Asia/Bangkok
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:boxcal-pbc-2026-03-28@boxingscene.com
 SEQUENCE:0
@@ -101,15 +111,15 @@ UID:boxcal-7658@boxingscene.com
 SEQUENCE:0
 DTSTAMP:20261015T183309Z
 LAST-MODIFIED:20261015T183309Z
-DTSTART:20261018T000000Z
-DTEND:20261018T040000Z
-SUMMARY:Sebastian Fundora-Ermal Hadribeaj
+DTSTART;TZID=Asia/Bangkok:20261018T070000
+DTEND;TZID=Asia/Bangkok:20261018T110000
+SUMMARY:Sebastian Fundora vs Ermal Hadribeaj
 LOCATION:The Cosmopolitan of Las Vegas\, Las Vegas\, Nevada
 DESCRIPTION:Sebastian Fundora Vs. Ermal Hadribeaj\nBrandon Figueroa Vs. Tom
  oki Kameda\nJermall Charlo Vs. Koen Mazoudier\n\nถ่ายทอด: TN
- T Sports\, DAZN\nเริ่ม: 20:00 EST (เวลาท้องถ
- ิ่นของรายการ)\nhttps://www.boxingscene.com/events/
- sebastian-fundora-ermal-hadribeaj
+ T Sports\, DAZN\nเริ่ม: อา. 18 ต.ค. 07:00 น. (เว
+ ลาไทย)\nhttps://www.boxingscene.com/events/sebastian-fundora-erm
+ al-hadribeaj
 URL:https://www.boxingscene.com/events/sebastian-fundora-ermal-hadribeaj
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -123,14 +133,13 @@ UID:boxcal-7724@boxingscene.com
 SEQUENCE:0
 DTSTAMP:20261015T184855Z
 LAST-MODIFIED:20261015T184855Z
-DTSTART:20261017T180000Z
-DTEND:20261017T220000Z
-SUMMARY:Daniel Dubois-Fabio Wardley
+DTSTART;TZID=Asia/Bangkok:20261018T010000
+DTEND;TZID=Asia/Bangkok:20261018T050000
+SUMMARY:Daniel Dubois vs Fabio Wardley 2
 LOCATION:The O2 Arena\, London\, United Kingdom
 DESCRIPTION:Daniel Dubois Vs. Fabio Wardley 2\n\nถ่ายทอด: DAZ
- N\nเริ่ม: 14:00 EST (เวลาท้องถิ่นขอ
- งรายการ)\nhttps://www.boxingscene.com/events/daniel-dubois-f
- abio-wardley
+ N\nเริ่ม: อา. 18 ต.ค. 01:00 น. (เวลาไทย)
+ \nhttps://www.boxingscene.com/events/daniel-dubois-fabio-wardley
 URL:https://www.boxingscene.com/events/daniel-dubois-fabio-wardley
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -146,7 +155,7 @@ DTSTAMP:20261015T184855Z
 LAST-MODIFIED:20261015T184855Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:Smith vs. Puello
+SUMMARY:Dalton Smith vs Alberto Puello
 LOCATION:Utilita Arena Sheffield\, Sheffield\, United Kingdom
 DESCRIPTION:Dalton Smith Vs. Alberto Puello\n\nถ่ายทอด: DAZN\
  nเริ่ม: ยังไม่ประกาศเวลา\nhttps:
@@ -164,14 +173,14 @@ UID:boxcal-7590@boxingscene.com
 SEQUENCE:0
 DTSTAMP:20261015T184855Z
 LAST-MODIFIED:20261015T184855Z
-DTSTART:20261025T000000Z
-DTEND:20261025T040000Z
-SUMMARY:Emanuel Navarrete-O'Shaquie Foster
+DTSTART;TZID=Asia/Bangkok:20261025T070000
+DTEND;TZID=Asia/Bangkok:20261025T110000
+SUMMARY:Emanuel Navarrete vs O'Shaquie Foster
 LOCATION:Frost Bank Center\, San Antonio\, Texas
 DESCRIPTION:Emanuel Navarrete Vs. O'Shaquie Foster\nAlbert Gonzalez Vs. Edw
- ard Vazquez\n\nถ่ายทอด: DAZN\nเริ่ม: 20:00 EST (
- เวลาท้องถิ่นของรายการ)\nhttps://
- www.boxingscene.com/events/emanuel-navarrete-oshaquie-foster
+ ard Vazquez\n\nถ่ายทอด: DAZN\nเริ่ม: อา. 25 
+ ต.ค. 07:00 น. (เวลาไทย)\nhttps://www.boxingscene.com/e
+ vents/emanuel-navarrete-oshaquie-foster
 URL:https://www.boxingscene.com/events/emanuel-navarrete-oshaquie-foster
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -187,7 +196,7 @@ DTSTAMP:20261015T183309Z
 LAST-MODIFIED:20261015T183309Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:Alvarez vs. Mbilli
+SUMMARY:Saul "Canelo" Alvarez vs Christian Mbilli
 LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
 DESCRIPTION:Saul "Canelo" Alvarez Vs. Christian Mbilli\n\nถ่ายท
  อด: DAZN\nเริ่ม: ยังไม่ประกาศเว
@@ -205,15 +214,14 @@ UID:boxcal-8059@boxingscene.com
 SEQUENCE:0
 DTSTAMP:20261015T184855Z
 LAST-MODIFIED:20261015T184855Z
-DTSTART:20261107T190000Z
-DTEND:20261107T230000Z
-SUMMARY:Joshua Buatsi-Willy Hutchinson 2
+DTSTART;TZID=Asia/Bangkok:20261108T020000
+DTEND;TZID=Asia/Bangkok:20261108T060000
+SUMMARY:Jack Rafferty vs Hovhannes Martirosyan
 LOCATION:Manchester Arena\, Manchester\, United Kingdom
 DESCRIPTION:Jack Rafferty Vs. Hovhannes Martirosyan\nZak Miller Vs. Gully P
  owar\nJoshua Buatsi Vs. Willy Hutchinson 2\n\nถ่ายทอด: DAZN\
- nเริ่ม: 14:00 EST (เวลาท้องถิ่นของ
- รายการ)\nhttps://www.boxingscene.com/events/joshua-buatsi-will
- y-hutchinson-2
+ nเริ่ม: อา. 8 พ.ย. 02:00 น. (เวลาไทย)\nh
+ ttps://www.boxingscene.com/events/joshua-buatsi-willy-hutchinson-2
 URL:https://www.boxingscene.com/events/joshua-buatsi-willy-hutchinson-2
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -229,7 +237,7 @@ DTSTAMP:20261015T184855Z
 LAST-MODIFIED:20261015T184855Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:Tyson Fury-Anthony Joshua
+SUMMARY:Tyson Fury vs Anthony Joshua
 LOCATION:Principality Stadium\, Cardiff\, United Kingdom
 DESCRIPTION:Tyson Fury Vs. Anthony Joshua\n\nถ่ายทอด: Netflix
  \nเริ่ม: ยังไม่ประกาศเวลา\nhttps
