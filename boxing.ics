@@ -7,6 +7,96 @@ X-WR-CALNAME:Boxing (PBC / Riyadh Season)
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
+UID:boxcal-pbc-2026-03-28@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T184642Z
+LAST-MODIFIED:20261015T184642Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:Sebastian Fundora vs Keith Thurman
+LOCATION:MGM Grand Garden Arena\, Las Vegas\, NV
+DESCRIPTION:Sebastian Fundora vs Keith Thurman\n\nถ่ายทอด: -\
+ nเริ่ม: ยังไม่ประกาศเวลา\nhttps:
+ //www.premierboxingchampions.com/events/past
+URL:https://www.premierboxingchampions.com/events/past
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-pbc-2026-04-04@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T184642Z
+LAST-MODIFIED:20261015T184642Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:Tim Tszyu vs Denis Nurja
+LOCATION:Wollongong Entertainment Centre\, Australia
+DESCRIPTION:Tim Tszyu vs Denis Nurja\n\nถ่ายทอด: -\nเริ
+ ่ม: ยังไม่ประกาศเวลา\nhttps://www.prem
+ ierboxingchampions.com/events/past
+URL:https://www.premierboxingchampions.com/events/past
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-pbc-2026-05-02@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T184642Z
+LAST-MODIFIED:20261015T184642Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:David Benavidez vs Gilberto Ramirez
+LOCATION:T-Mobile Arena\, Las Vegas\, Nevada
+DESCRIPTION:David Benavidez vs Gilberto Ramirez\n\nถ่ายทอด: -
+ \nเริ่ม: ยังไม่ประกาศเวลา\nhttps
+ ://www.premierboxingchampions.com/events/past
+URL:https://www.premierboxingchampions.com/events/past
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-pbc-2026-07-25@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T184642Z
+LAST-MODIFIED:20261015T184642Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Errol Spence Jr vs Tim Tszyu
+LOCATION:Afterpay Arena\, Sydney\, Australia
+DESCRIPTION:Errol Spence Jr vs Tim Tszyu\n\nถ่ายทอด: -\nเ
+ ริ่ม: ยังไม่ประกาศเวลา\nhttps://ww
+ w.premierboxingchampions.com/events/past
+URL:https://www.premierboxingchampions.com/events/past
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-pbc-2026-08-22@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T184642Z
+LAST-MODIFIED:20261015T184642Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:Rolando Romero vs Teofimo Lopez
+LOCATION:T-Mobile Arena\, Las Vegas\, Nevada
+DESCRIPTION:Rolando Romero vs Teofimo Lopez\n\nถ่ายทอด: -\n
+ เริ่ม: ยังไม่ประกาศเวลา\nhttps:/
+ /www.premierboxingchampions.com/events/past
+URL:https://www.premierboxingchampions.com/events/past
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-pbc-2026-09-19@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261015T184642Z
+LAST-MODIFIED:20261015T184642Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Isaac Cruz vs Nestor Bravo
+LOCATION:Pechanga Arena\, San Diego\, California
+DESCRIPTION:Isaac Cruz vs Nestor Bravo\n\nถ่ายทอด: -\nเร
+ ิ่ม: ยังไม่ประกาศเวลา\nhttps://www.p
+ remierboxingchampions.com/events/past
+URL:https://www.premierboxingchampions.com/events/past
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:boxcal-7658@boxingscene.com
 SEQUENCE:0
 DTSTAMP:20261015T183309Z
