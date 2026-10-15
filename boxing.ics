@@ -211,15 +211,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-8059@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T184855Z
-LAST-MODIFIED:20261015T184855Z
+SEQUENCE:1
+DTSTAMP:20261015T185454Z
+LAST-MODIFIED:20261015T185454Z
 DTSTART;TZID=Asia/Bangkok:20261108T020000
 DTEND;TZID=Asia/Bangkok:20261108T060000
-SUMMARY:Jack Rafferty vs Hovhannes Martirosyan
+SUMMARY:Joshua Buatsi vs Willy Hutchinson 2
 LOCATION:Manchester Arena\, Manchester\, United Kingdom
-DESCRIPTION:Jack Rafferty Vs. Hovhannes Martirosyan\nZak Miller Vs. Gully P
- owar\nJoshua Buatsi Vs. Willy Hutchinson 2\n\nถ่ายทอด: DAZN\
+DESCRIPTION:Joshua Buatsi Vs. Willy Hutchinson 2\nJack Rafferty Vs. Hovhann
+ es Martirosyan\nZak Miller Vs. Gully Powar\n\nถ่ายทอด: DAZN\
  nเริ่ม: อา. 8 พ.ย. 02:00 น. (เวลาไทย)\nh
  ttps://www.boxingscene.com/events/joshua-buatsi-willy-hutchinson-2
 URL:https://www.boxingscene.com/events/joshua-buatsi-willy-hutchinson-2
