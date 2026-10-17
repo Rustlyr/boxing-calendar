@@ -161,6 +161,26 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:boxcal-7926@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261017T221705Z
+LAST-MODIFIED:20261017T221705Z
+DTSTART;TZID=Asia/Bangkok:20261129T000000
+DTEND;TZID=Asia/Bangkok:20261129T040000
+SUMMARY:Agit Kabayel vs Nelson Hysa
+LOCATION:Merkur Spiel-Arena\, Düsseldorf\, Germany
+DESCRIPTION:Agit Kabayel Vs. Nelson Hysa\n\nถ่ายทอด: DAZN\n
+ เริ่ม: อา. 29 พ.ย. 00:00 น. (เวลาไทย)\nh
+ ttps://www.boxingscene.com/events/agit-kabayel-nelson-hysa
+URL:https://www.boxingscene.com/events/agit-kabayel-nelson-hysa
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agit Kabayel vs Nelson Hysa
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:boxcal-7893@boxingscene.com
 SEQUENCE:0
 DTSTAMP:20261015T184855Z
