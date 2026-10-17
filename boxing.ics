@@ -141,6 +141,26 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:boxcal-7993@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261017T041703Z
+LAST-MODIFIED:20261017T041703Z
+DTSTART;TZID=Asia/Bangkok:20261115T080000
+DTEND;TZID=Asia/Bangkok:20261115T120000
+SUMMARY:Diego Pacheco vs Darius Fulghum
+LOCATION:Dignity Health Sports Park\, Carson\, California
+DESCRIPTION:Diego Pacheco Vs. Darius Fulghum\n\nถ่ายทอด: DAZN
+ \nเริ่ม: อา. 15 พ.ย. 08:00 น. (เวลาไทย)\
+ nhttps://www.boxingscene.com/events/diego-pacheco-darius-fulghum
+URL:https://www.boxingscene.com/events/diego-pacheco-darius-fulghum
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diego Pacheco vs Darius Fulghum
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:boxcal-7893@boxingscene.com
 SEQUENCE:0
 DTSTAMP:20261015T184855Z
