@@ -17,48 +17,6 @@ TZNAME:+07
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:boxcal-7658@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T183309Z
-LAST-MODIFIED:20261015T183309Z
-DTSTART;TZID=Asia/Bangkok:20261018T070000
-DTEND;TZID=Asia/Bangkok:20261018T110000
-SUMMARY:Sebastian Fundora vs Ermal Hadribeaj
-LOCATION:The Cosmopolitan of Las Vegas\, Las Vegas\, Nevada
-DESCRIPTION:Sebastian Fundora Vs. Ermal Hadribeaj\nBrandon Figueroa Vs. Tom
- oki Kameda\nJermall Charlo Vs. Koen Mazoudier\n\nถ่ายทอด: TN
- T Sports\, DAZN\nเริ่ม: อา. 18 ต.ค. 07:00 น. (เว
- ลาไทย)\nhttps://www.boxingscene.com/events/sebastian-fundora-erm
- al-hadribeaj
-URL:https://www.boxingscene.com/events/sebastian-fundora-ermal-hadribeaj
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Sebastian Fundora vs Ermal Hadribeaj
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:boxcal-7724@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T184855Z
-LAST-MODIFIED:20261015T184855Z
-DTSTART;TZID=Asia/Bangkok:20261018T010000
-DTEND;TZID=Asia/Bangkok:20261018T050000
-SUMMARY:Daniel Dubois vs Fabio Wardley 2
-LOCATION:The O2 Arena\, London\, United Kingdom
-DESCRIPTION:Daniel Dubois Vs. Fabio Wardley 2\n\nถ่ายทอด: DAZ
- N\nเริ่ม: อา. 18 ต.ค. 01:00 น. (เวลาไทย)
- \nhttps://www.boxingscene.com/events/daniel-dubois-fabio-wardley
-URL:https://www.boxingscene.com/events/daniel-dubois-fabio-wardley
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Daniel Dubois vs Fabio Wardley 2
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:boxcal-7325@boxingscene.com
 SEQUENCE:0
 DTSTAMP:20261015T184855Z
