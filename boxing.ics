@@ -18,22 +18,23 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:boxcal-7325@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T184855Z
-LAST-MODIFIED:20261015T184855Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+SEQUENCE:1
+DTSTAMP:20261021T152819Z
+LAST-MODIFIED:20261021T152819Z
+DTSTART;TZID=Asia/Bangkok:20261025T010000
+DTEND;TZID=Asia/Bangkok:20261025T050000
 SUMMARY:Dalton Smith vs Alberto Puello
 LOCATION:Utilita Arena Sheffield\, Sheffield\, United Kingdom
 DESCRIPTION:Dalton Smith Vs. Alberto Puello\n\nถ่ายทอด: DAZN\
- nเริ่ม: ยังไม่ประกาศเวลา\nhttps:
- //www.boxingscene.com/events/smith-vs-puello
+ nเริ่ม: อา. 25 ต.ค. 01:00 น. (เวลาไทย\, 
+ ตารางถ่ายทอด DAZN)\nhttps://www.boxingscene.com/ev
+ ents/smith-vs-puello
 URL:https://www.boxingscene.com/events/smith-vs-puello
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Dalton Smith vs Alberto Puello
-TRIGGER:PT9H
+TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
@@ -59,22 +60,23 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-7326@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T183309Z
-LAST-MODIFIED:20261015T183309Z
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+SEQUENCE:1
+DTSTAMP:20261021T152819Z
+LAST-MODIFIED:20261021T152819Z
+DTSTART;TZID=Asia/Bangkok:20261031T230000
+DTEND;TZID=Asia/Bangkok:20261101T030000
 SUMMARY:Saul "Canelo" Alvarez vs Christian Mbilli
 LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
 DESCRIPTION:Saul "Canelo" Alvarez Vs. Christian Mbilli\n\nถ่ายท
- อด: DAZN\nเริ่ม: ยังไม่ประกาศเว
- ลา\nhttps://www.boxingscene.com/events/alvarez-vs-mbilli
+ อด: DAZN\nเริ่ม: ส. 31 ต.ค. 23:00 น. (เวลา
+ ไทย\, ตารางถ่ายทอด DAZN)\nhttps://www.boxing
+ scene.com/events/alvarez-vs-mbilli
 URL:https://www.boxingscene.com/events/alvarez-vs-mbilli
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Saul "Canelo" Alvarez vs Christian Mbilli
-TRIGGER:PT9H
+TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
