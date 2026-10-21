@@ -121,6 +121,27 @@ TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:boxcal-8092@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261021T221707Z
+LAST-MODIFIED:20261021T221707Z
+DTSTART;TZID=Asia/Bangkok:20261121T080000
+DTEND;TZID=Asia/Bangkok:20261121T120000
+SUMMARY:Gabriela Fundora vs Jasmina Zapotoczna
+LOCATION:Fantasy Springs Resort Casino\, Indio\, California
+DESCRIPTION:Gabriela Fundora Vs. Jasmina Zapotoczna\nAmari Jones Vs. DeAund
+ re Pettus\n\nถ่ายทอด: DAZN\nเริ่ม: ส. 21 พ.ย
+ . 08:00 น. (เวลาไทย)\nhttps://www.boxingscene.com/events/g
+ abriela-fundora-jasmina-zapotoczna
+URL:https://www.boxingscene.com/events/gabriela-fundora-jasmina-zapotoczna
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gabriela Fundora vs Jasmina Zapotoczna
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:boxcal-7926@boxingscene.com
 SEQUENCE:0
 DTSTAMP:20261017T221705Z
