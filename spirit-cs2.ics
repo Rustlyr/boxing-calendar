@@ -39,15 +39,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-cs2-spirit-blast-rivals-fall-2026---group-b-opening-matches@ru
  stlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261021T191857Z
-LAST-MODIFIED:20261021T191857Z
-DTSTART;TZID=Asia/Bangkok:20261111T140000
-DTEND;TZID=Asia/Bangkok:20261111T170000
+SEQUENCE:1
+DTSTAMP:20261024T004701Z
+LAST-MODIFIED:20261024T004701Z
+DTSTART;TZID=Asia/Bangkok:20261111T150000
+DTEND;TZID=Asia/Bangkok:20261111T180000
 SUMMARY:CS2: Spirit vs FUT
 LOCATION:BLAST Rivals Fall 2026 - Group B
 DESCRIPTION:BLAST Rivals Fall 2026 - Group B · Opening Matches\nเริ
- ่ม: พ. 11 พ.ย. 14:00 น. (เวลาไทย)
+ ่ม: พ. 11 พ.ย. 15:00 น. (เวลาไทย)
 URL:https://liquipedia.net/counterstrike/Team_Spirit
 STATUS:CONFIRMED
 BEGIN:VALARM
