@@ -17,26 +17,6 @@ TZNAME:+07
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sportcal-cs2-spirit-pgl-masters-bucharest-2026---round-2-october-25@rus
- tlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261025T004701Z
-LAST-MODIFIED:20261025T004701Z
-DTSTART;TZID=Asia/Bangkok:20261025T150000
-DTEND;TZID=Asia/Bangkok:20261025T180000
-SUMMARY:CS2: Spirit vs TYLOO
-LOCATION:PGL Masters Bucharest 2026 - Round 2
-DESCRIPTION:PGL Masters Bucharest 2026 - Round 2 · October 25\nเริ
- ่ม: อา. 25 ต.ค. 15:00 น. (เวลาไทย)
-URL:https://liquipedia.net/counterstrike/Team_Spirit
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:CS2: Spirit vs TYLOO
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sportcal-cs2-spirit-blast-rivals-fall-2026---group-b-opening-matches@ru
  stlyr.github.io
 SEQUENCE:1
