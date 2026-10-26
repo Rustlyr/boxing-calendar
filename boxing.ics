@@ -39,22 +39,22 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-8059@boxingscene.com
-SEQUENCE:1
-DTSTAMP:20261015T185454Z
-LAST-MODIFIED:20261015T185454Z
+SEQUENCE:2
+DTSTAMP:20261026T151704Z
+LAST-MODIFIED:20261026T151704Z
 DTSTART;TZID=Asia/Bangkok:20261108T020000
 DTEND;TZID=Asia/Bangkok:20261108T060000
-SUMMARY:Joshua Buatsi vs Willy Hutchinson 2
+SUMMARY:Joshua Buatsi vs Willy Hutchinson
 LOCATION:Manchester Arena\, Manchester\, United Kingdom
-DESCRIPTION:Joshua Buatsi Vs. Willy Hutchinson 2\nJack Rafferty Vs. Hovhann
- es Martirosyan\nZak Miller Vs. Gully Powar\n\nถ่ายทอด: DAZN\
- nเริ่ม: อา. 8 พ.ย. 02:00 น. (เวลาไทย)\nh
- ttps://www.boxingscene.com/events/joshua-buatsi-willy-hutchinson-2
+DESCRIPTION:Joshua Buatsi Vs. Willy Hutchinson\nJack Rafferty Vs. Hovhannes
+  Martirosyan\nZak Miller Vs. Gully Powar\n\nถ่ายทอด: DAZN\n
+ เริ่ม: อา. 8 พ.ย. 02:00 น. (เวลาไทย)\nht
+ tps://www.boxingscene.com/events/joshua-buatsi-willy-hutchinson-2
 URL:https://www.boxingscene.com/events/joshua-buatsi-willy-hutchinson-2
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Joshua Buatsi vs Willy Hutchinson 2
+DESCRIPTION:Joshua Buatsi vs Willy Hutchinson
 TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
@@ -137,6 +137,27 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Tyson Fury vs Anthony Joshua
 TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7691@boxingscene.com
+SEQUENCE:0
+DTSTAMP:20261026T151704Z
+LAST-MODIFIED:20261026T151704Z
+DTSTART;TZID=Asia/Bangkok:20261212T210000
+DTEND;TZID=Asia/Bangkok:20261213T010000
+SUMMARY:Dmitry Bivol vs Callum Smith
+LOCATION:
+DESCRIPTION:Dmitry Bivol Vs. Callum Smith\n\nถ่ายทอด: DAZN\n
+ เริ่ม: ส. 12 ธ.ค. 21:00 น. (เวลาไทย\, ต
+ ารางถ่ายทอด DAZN)\nhttps://www.boxingscene.com/event
+ s/dmitry-bivol-callum-smith
+URL:https://www.boxingscene.com/events/dmitry-bivol-callum-smith
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dmitry Bivol vs Callum Smith
+TRIGGER:-PT1H
 END:VALARM
 END:VEVENT
 END:VCALENDAR
