@@ -17,47 +17,6 @@ TZNAME:+07
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:boxcal-7325@boxingscene.com
-SEQUENCE:2
-DTSTAMP:20261022T171706Z
-LAST-MODIFIED:20261022T171706Z
-DTSTART;TZID=Asia/Bangkok:20261025T010000
-DTEND;TZID=Asia/Bangkok:20261025T050000
-SUMMARY:Dalton Smith vs Alberto Puello
-LOCATION:Utilita Arena Sheffield\, Sheffield\, United Kingdom
-DESCRIPTION:Dalton Smith Vs. Alberto Puello\n\nถ่ายทอด: DAZN\
- nเริ่ม: อา. 25 ต.ค. 01:00 น. (เวลาไทย)\n
- https://www.boxingscene.com/events/smith-vs-puello
-URL:https://www.boxingscene.com/events/smith-vs-puello
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Dalton Smith vs Alberto Puello
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:boxcal-7590@boxingscene.com
-SEQUENCE:0
-DTSTAMP:20261015T184855Z
-LAST-MODIFIED:20261015T184855Z
-DTSTART;TZID=Asia/Bangkok:20261025T070000
-DTEND;TZID=Asia/Bangkok:20261025T110000
-SUMMARY:Emanuel Navarrete vs O'Shaquie Foster
-LOCATION:Frost Bank Center\, San Antonio\, Texas
-DESCRIPTION:Emanuel Navarrete Vs. O'Shaquie Foster\nAlbert Gonzalez Vs. Edw
- ard Vazquez\n\nถ่ายทอด: DAZN\nเริ่ม: อา. 25 
- ต.ค. 07:00 น. (เวลาไทย)\nhttps://www.boxingscene.com/e
- vents/emanuel-navarrete-oshaquie-foster
-URL:https://www.boxingscene.com/events/emanuel-navarrete-oshaquie-foster
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Emanuel Navarrete vs O'Shaquie Foster
-TRIGGER:-PT1H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:boxcal-7326@boxingscene.com
 SEQUENCE:5
 DTSTAMP:20261023T231703Z
