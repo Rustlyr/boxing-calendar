@@ -18,16 +18,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:boxcal-7326@boxingscene.com
-SEQUENCE:5
-DTSTAMP:20261023T231703Z
-LAST-MODIFIED:20261023T231703Z
-DTSTART;TZID=Asia/Bangkok:20261031T211500
-DTEND;TZID=Asia/Bangkok:20261101T011500
+SEQUENCE:6
+DTSTAMP:20261026T171704Z
+LAST-MODIFIED:20261026T171704Z
+DTSTART;TZID=Asia/Bangkok:20261031T210000
+DTEND;TZID=Asia/Bangkok:20261101T010000
 SUMMARY:Saul "Canelo" Alvarez vs Christian Mbilli
 LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
 DESCRIPTION:Saul "Canelo" Alvarez Vs. Christian Mbilli\nLindolfo Delgado Vs
  . Arthur Biyarslanov\n\nถ่ายทอด: DAZN\nเริ่ม: ส.
-  31 ต.ค. 21:15 น. (เวลาไทย\, ตารางถ่า
+  31 ต.ค. 21:00 น. (เวลาไทย\, ตารางถ่า
  ยทอด DAZN)\nhttps://www.boxingscene.com/events/alvarez-vs-mbilli
 URL:https://www.boxingscene.com/events/alvarez-vs-mbilli
 STATUS:CONFIRMED
