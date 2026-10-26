@@ -17,6 +17,26 @@ TZNAME:+07
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:sportcal-cs2-spirit-pgl-masters-bucharest-2026---round-3-october-26@rus
+ tlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261026T004701Z
+LAST-MODIFIED:20261026T004701Z
+DTSTART;TZID=Asia/Bangkok:20261026T210000
+DTEND;TZID=Asia/Bangkok:20261027T000000
+SUMMARY:CS2: Spirit vs FURIA
+LOCATION:PGL Masters Bucharest 2026 - Round 3
+DESCRIPTION:PGL Masters Bucharest 2026 - Round 3 · October 26\nเริ
+ ่ม: จ. 26 ต.ค. 21:00 น. (เวลาไทย)
+URL:https://liquipedia.net/counterstrike/Team_Spirit
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CS2: Spirit vs FURIA
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:sportcal-cs2-spirit-blast-rivals-fall-2026---group-b-opening-matches@ru
  stlyr.github.io
 SEQUENCE:1
