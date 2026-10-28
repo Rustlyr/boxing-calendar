@@ -19,15 +19,15 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:sportcal-cs2-spirit-pgl-masters-bucharest-2026---round-5-october-28@rus
  tlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261028T004701Z
-LAST-MODIFIED:20261028T004701Z
-DTSTART;TZID=Asia/Bangkok:20261029T000000
-DTEND;TZID=Asia/Bangkok:20261029T030000
+SEQUENCE:1
+DTSTAMP:20261028T164701Z
+LAST-MODIFIED:20261028T164701Z
+DTSTART;TZID=Asia/Bangkok:20261028T230000
+DTEND;TZID=Asia/Bangkok:20261029T020000
 SUMMARY:CS2: Spirit vs NAVI
 LOCATION:PGL Masters Bucharest 2026 - Round 5
 DESCRIPTION:PGL Masters Bucharest 2026 - Round 5 · October 28\nเริ
- ่ม: พฤ. 29 ต.ค. 00:00 น. (เวลาไทย)
+ ่ม: พ. 28 ต.ค. 23:00 น. (เวลาไทย)
 URL:https://liquipedia.net/counterstrike/Team_Spirit
 STATUS:CONFIRMED
 BEGIN:VALARM
