@@ -18,17 +18,17 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:boxcal-7326@boxingscene.com
-SEQUENCE:7
-DTSTAMP:20261027T111703Z
-LAST-MODIFIED:20261027T111703Z
-DTSTART;TZID=Asia/Bangkok:20261031T210000
-DTEND;TZID=Asia/Bangkok:20261101T010000
+SEQUENCE:8
+DTSTAMP:20261029T011703Z
+LAST-MODIFIED:20261029T011703Z
+DTSTART;TZID=Asia/Bangkok:20261031T211500
+DTEND;TZID=Asia/Bangkok:20261101T011500
 SUMMARY:Saul "Canelo" Alvarez vs Christian Mbilli
 LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
 DESCRIPTION:Saul "Canelo" Alvarez Vs. Christian Mbilli\nJaime Munguia Vs. N
  ikita Zon\nRafael Espinoza Vs. Ricardo Blandon\nLindolfo Delgado Vs. Arthu
  r Biyarslanov\nAlan David Picasso Vs. Carl Jammes Martin\n\nถ่าย
- ทอด: DAZN\nเริ่ม: ส. 31 ต.ค. 21:00 น. (เวล
+ ทอด: DAZN\nเริ่ม: ส. 31 ต.ค. 21:15 น. (เวล
  าไทย\, ตารางถ่ายทอด DAZN)\nhttps://www.box
  ingscene.com/events/alvarez-vs-mbilli
 URL:https://www.boxingscene.com/events/alvarez-vs-mbilli
