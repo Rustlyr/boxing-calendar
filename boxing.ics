@@ -17,33 +17,6 @@ TZNAME:+07
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:boxcal-7326@boxingscene.com
-SEQUENCE:11
-DTSTAMP:20261031T171707Z
-LAST-MODIFIED:20261031T171707Z
-DTSTART;TZID=Asia/Bangkok:20261101T000000
-DTEND;TZID=Asia/Bangkok:20261101T040000
-SUMMARY:Saul "Canelo" Alvarez vs Christian Mbilli
-LOCATION:Kingdom Arena\, Riyadh\, Saudi Arabia
-DESCRIPTION:Saul "Canelo" Alvarez Vs. Christian Mbilli\nJaime Munguia Vs. N
- ikita Zon\nRafael Espinoza Vs. Ricardo Blandon\nAlan David Picasso Vs. Car
- l Jammes Martin\n\nถ่ายทอด: DAZN\nเริ่ม: อา. 1
-  พ.ย. 00:00 น. (เวลาไทย)\nhttps://www.boxingscene.com/
- events/alvarez-vs-mbilli
-URL:https://www.boxingscene.com/events/alvarez-vs-mbilli
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Saul "Canelo" Alvarez vs Christian Mbilli
-TRIGGER:-PT1H
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Saul "Canelo" Alvarez vs Christian Mbilli
-TRIGGER:PT0S
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:boxcal-8059@boxingscene.com
 SEQUENCE:2
 DTSTAMP:20261026T151704Z
