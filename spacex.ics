@@ -18,16 +18,16 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:sportcal-spacex-54d471e8-695c-4fa7-a3cf-dbd8b389e8ae@rustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261101T215808Z
-LAST-MODIFIED:20261101T215808Z
-DTSTART;TZID=Asia/Bangkok:20261104T082800
-DTEND;TZID=Asia/Bangkok:20261104T092800
+SEQUENCE:1
+DTSTAMP:20261102T204701Z
+LAST-MODIFIED:20261102T204701Z
+DTSTART;TZID=Asia/Bangkok:20261105T081400
+DTEND;TZID=Asia/Bangkok:20261105T091400
 SUMMARY:Falcon 9 · USSF-432
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:ถ่ายทอดสด:\nhttps://www.youtube.com/watch?v=c
  ANr44iNjd8\nhttps://x.com/i/broadcasts/1kKzDPYrZNdJv\nเริ่ม: พ
- . 4 พ.ย. 08:28 น. (เวลาไทย)
+ ฤ. 5 พ.ย. 08:14 น. (เวลาไทย)
 URL:https://www.youtube.com/watch?v=cANr44iNjd8
 STATUS:CONFIRMED
 BEGIN:VALARM
