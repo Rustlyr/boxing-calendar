@@ -1,0 +1,1485 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Formula 1
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sportcal-f1-2026-1-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260307T120000
+DTEND;TZID=Asia/Bangkok:20260307T130000
+SUMMARY:F1 QF (Australia)
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:P1 : George Russell\nP2 : Andrea Kimi Antonelli\nP3 : Isack Had
+ jar\nP4 : Charles Leclerc\nP5 : Oscar Piastri\nP6 : Lando Norris\nP7 : Lew
+ is Hamilton\nP8 : Liam Lawson\nP9 : Arvid Lindblad\nP10 : Gabriel Bortolet
+ o\nP11 : Nico Hülkenberg\nP12 : Oliver Bearman\nP13 : Esteban Ocon\nP14 :
+  Pierre Gasly\nP15 : Alexander Albon\nP16 : Franco Colapinto\nP17 : Fernan
+ do Alonso\nP18 : Sergio Pérez\nP19 : Valtteri Bottas
+URL:https://en.wikipedia.org/wiki/2026_Australian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Australia)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Australia)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-1-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260308T110000
+DTEND;TZID=Asia/Bangkok:20260308T122306
+SUMMARY:F1 Race (Australia)
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:P1 : George Russell\nP2 : Andrea Kimi Antonelli\nP3 : Charles L
+ eclerc\nP4 : Lewis Hamilton\nP5 : Lando Norris\nP6 : Max Verstappen\nP7 : 
+ Oliver Bearman\nP8 : Arvid Lindblad\nP9 : Gabriel Bortoleto\nP10 : Pierre 
+ Gasly\nP11 : Esteban Ocon\nP12 : Alexander Albon\nP13 : Liam Lawson\nP14 :
+  Franco Colapinto\nP15 : Carlos Sainz\nP16 : Sergio Pérez\nDNF : Lance St
+ roll\, Fernando Alonso\, Valtteri Bottas\, Isack Hadjar\nDNS : Oscar Piast
+ ri\, Nico Hülkenberg
+URL:https://en.wikipedia.org/wiki/2026_Australian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Australia)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Australia)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-2-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260314T140000
+DTEND;TZID=Asia/Bangkok:20260314T150000
+SUMMARY:F1 QF (China)
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : George Russell\nP3 : Lewis Ham
+ ilton\nP4 : Charles Leclerc\nP5 : Oscar Piastri\nP6 : Lando Norris\nP7 : P
+ ierre Gasly\nP8 : Max Verstappen\nP9 : Isack Hadjar\nP10 : Oliver Bearman\
+ nP11 : Nico Hülkenberg\nP12 : Franco Colapinto\nP13 : Esteban Ocon\nP14 :
+  Liam Lawson\nP15 : Arvid Lindblad\nP16 : Gabriel Bortoleto\nP17 : Carlos 
+ Sainz\nP18 : Alexander Albon\nP19 : Fernando Alonso\nP20 : Valtteri Bottas
+ \nP21 : Lance Stroll\nP22 : Sergio Pérez
+URL:https://en.wikipedia.org/wiki/2026_Chinese_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (China)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (China)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-2-sprint@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260314T100000
+DTEND;TZID=Asia/Bangkok:20260314T103338
+SUMMARY:F1 Sprint (China)
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:P1 : George Russell\nP2 : Charles Leclerc\nP3 : Lewis Hamilton\
+ nP4 : Lando Norris\nP5 : Andrea Kimi Antonelli\nP6 : Oscar Piastri\nP7 : L
+ iam Lawson\nP8 : Oliver Bearman\nP9 : Max Verstappen\nP10 : Esteban Ocon\n
+ P11 : Pierre Gasly\nP12 : Carlos Sainz\nP13 : Gabriel Bortoleto\nP14 : Fra
+ nco Colapinto\nP15 : Isack Hadjar\nP16 : Alexander Albon\nP17 : Fernando A
+ lonso\nP18 : Lance Stroll\nP19 : Sergio Pérez\nDNF : Nico Hülkenberg\, V
+ altteri Bottas\, Arvid Lindblad
+URL:https://en.wikipedia.org/wiki/2026_Chinese_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (China)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (China)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-2-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260315T140000
+DTEND;TZID=Asia/Bangkok:20260315T153315
+SUMMARY:F1 Race (China)
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : George Russell\nP3 : Lewis Ham
+ ilton\nP4 : Charles Leclerc\nP5 : Oliver Bearman\nP6 : Pierre Gasly\nP7 : 
+ Liam Lawson\nP8 : Isack Hadjar\nP9 : Carlos Sainz\nP10 : Franco Colapinto\
+ nP11 : Nico Hülkenberg\nP12 : Arvid Lindblad\nP13 : Valtteri Bottas\nP14 
+ : Esteban Ocon\nP15 : Sergio Pérez\nDNF : Max Verstappen\, Fernando Alons
+ o\, Lance Stroll\nDNS : Oscar Piastri\, Lando Norris\, Gabriel Bortoleto\,
+  Alexander Albon
+URL:https://en.wikipedia.org/wiki/2026_Chinese_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (China)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (China)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-3-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260328T130000
+DTEND;TZID=Asia/Bangkok:20260328T140000
+SUMMARY:F1 QF (Japan)
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : George Russell\nP3 : Oscar Pia
+ stri\nP4 : Charles Leclerc\nP5 : Lando Norris\nP6 : Lewis Hamilton\nP7 : P
+ ierre Gasly\nP8 : Isack Hadjar\nP9 : Gabriel Bortoleto\nP10 : Arvid Lindbl
+ ad\nP11 : Max Verstappen\nP12 : Esteban Ocon\nP13 : Nico Hülkenberg\nP14 
+ : Liam Lawson\nP15 : Franco Colapinto\nP16 : Carlos Sainz\nP17 : Alexander
+  Albon\nP18 : Oliver Bearman\nP19 : Sergio Pérez\nP20 : Valtteri Bottas\n
+ P21 : Fernando Alonso\nP22 : Lance Stroll
+URL:https://en.wikipedia.org/wiki/2026_Japanese_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Japan)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Japan)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-3-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260329T120000
+DTEND;TZID=Asia/Bangkok:20260329T132803
+SUMMARY:F1 Race (Japan)
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Oscar Piastri\nP3 : Charles Le
+ clerc\nP4 : George Russell\nP5 : Lando Norris\nP6 : Lewis Hamilton\nP7 : P
+ ierre Gasly\nP8 : Max Verstappen\nP9 : Liam Lawson\nP10 : Esteban Ocon\nP1
+ 1 : Nico Hülkenberg\nP12 : Isack Hadjar\nP13 : Gabriel Bortoleto\nP14 : A
+ rvid Lindblad\nP15 : Carlos Sainz\nP16 : Franco Colapinto\nP17 : Sergio P
+ érez\nP18 : Fernando Alonso\nP19 : Valtteri Bottas\nP20 : Alexander Albon
+ \nDNF : Lance Stroll\, Oliver Bearman
+URL:https://en.wikipedia.org/wiki/2026_Japanese_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Japan)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Japan)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-4-sprint@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260502T230000
+DTEND;TZID=Asia/Bangkok:20260502T232915
+SUMMARY:F1 Sprint (USA\, Miami)
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:P1 : Lando Norris\nP2 : Oscar Piastri\nP3 : Charles Leclerc\nP4
+  : George Russell\nP5 : Max Verstappen\nP6 : Andrea Kimi Antonelli\nP7 : L
+ ewis Hamilton\nP8 : Pierre Gasly\nP9 : Isack Hadjar\nP10 : Franco Colapint
+ o\nP11 : Esteban Ocon\nP12 : Oliver Bearman\nP13 : Carlos Sainz\nP14 : Lia
+ m Lawson\nP15 : Fernando Alonso\nP16 : Sergio Pérez\nP17 : Lance Stroll\n
+ P18 : Alexander Albon\nP19 : Valtteri Bottas\nDSQ : Gabriel Bortoleto\nDNS
+  : Nico Hülkenberg\, Arvid Lindblad
+URL:https://en.wikipedia.org/wiki/2026_Miami_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (USA\, Miami)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (USA\, Miami)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-4-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260503T030000
+DTEND;TZID=Asia/Bangkok:20260503T040000
+SUMMARY:F1 QF (USA\, Miami)
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Max Verstappen\nP3 : Charles L
+ eclerc\nP4 : Lando Norris\nP5 : George Russell\nP6 : Lewis Hamilton\nP7 : 
+ Oscar Piastri\nP8 : Franco Colapinto\nP9 : Pierre Gasly\nP10 : Nico Hülke
+ nberg\nP11 : Liam Lawson\nP12 : Oliver Bearman\nP13 : Carlos Sainz\nP14 : 
+ Esteban Ocon\nP15 : Alexander Albon\nP16 : Arvid Lindblad\nP17 : Fernando 
+ Alonso\nP18 : Lance Stroll\nP19 : Valtteri Bottas\nP20 : Sergio Pérez\nP2
+ 1 : Gabriel Bortoleto\nP22 : Isack Hadjar
+URL:https://en.wikipedia.org/wiki/2026_Miami_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (USA\, Miami)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (USA\, Miami)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-4-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260504T030000
+DTEND;TZID=Asia/Bangkok:20260504T043319
+SUMMARY:F1 Race (USA\, Miami)
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Lando Norris\nP3 : Oscar Piast
+ ri\nP4 : George Russell\nP5 : Max Verstappen\nP6 : Lewis Hamilton\nP7 : Fr
+ anco Colapinto\nP8 : Charles Leclerc\nP9 : Carlos Sainz\nP10 : Alexander A
+ lbon\nP11 : Oliver Bearman\nP12 : Gabriel Bortoleto\nP13 : Esteban Ocon\nP
+ 14 : Arvid Lindblad\nP15 : Fernando Alonso\nP16 : Sergio Pérez\nP17 : Lan
+ ce Stroll\nP18 : Valtteri Bottas\nDNF : Nico Hülkenberg\, Liam Lawson\, P
+ ierre Gasly\, Isack Hadjar
+URL:https://en.wikipedia.org/wiki/2026_Miami_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (USA\, Miami)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (USA\, Miami)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-5-sprint@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260523T230000
+DTEND;TZID=Asia/Bangkok:20260523T232850
+SUMMARY:F1 Sprint (Canada)
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:P1 : George Russell\nP2 : Lando Norris\nP3 : Andrea Kimi Antone
+ lli\nP4 : Oscar Piastri\nP5 : Charles Leclerc\nP6 : Lewis Hamilton\nP7 : M
+ ax Verstappen\nP8 : Arvid Lindblad\nP9 : Franco Colapinto\nP10 : Carlos Sa
+ inz\nP11 : Liam Lawson\nP12 : Gabriel Bortoleto\nP13 : Esteban Ocon\nP14 :
+  Sergio Pérez\nP15 : Nico Hülkenberg\nP16 : Lance Stroll\nP17 : Valtteri
+  Bottas\nP18 : Oliver Bearman\nP19 : Alexander Albon\nP20 : Pierre Gasly\n
+ P21 : Isack Hadjar\nDNF : Fernando Alonso
+URL:https://en.wikipedia.org/wiki/2026_Canadian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (Canada)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (Canada)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-5-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260524T030000
+DTEND;TZID=Asia/Bangkok:20260524T040000
+SUMMARY:F1 QF (Canada)
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:P1 : George Russell\nP2 : Andrea Kimi Antonelli\nP3 : Lando Nor
+ ris\nP4 : Oscar Piastri\nP5 : Lewis Hamilton\nP6 : Max Verstappen\nP7 : Is
+ ack Hadjar\nP8 : Charles Leclerc\nP9 : Arvid Lindblad\nP10 : Franco Colapi
+ nto\nP11 : Nico Hülkenberg\nP12 : Liam Lawson\nP13 : Gabriel Bortoleto\nP
+ 14 : Pierre Gasly\nP15 : Carlos Sainz\nP16 : Oliver Bearman\nP17 : Esteban
+  Ocon\nP18 : Alexander Albon\nP19 : Fernando Alonso\nP20 : Sergio Pérez\n
+ P21 : Lance Stroll\nP22 : Valtteri Bottas
+URL:https://en.wikipedia.org/wiki/2026_Canadian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Canada)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Canada)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-5-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260525T030000
+DTEND;TZID=Asia/Bangkok:20260525T042815
+SUMMARY:F1 Race (Canada)
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Lewis Hamilton\nP3 : Max Verst
+ appen\nP4 : Charles Leclerc\nP5 : Isack Hadjar\nP6 : Franco Colapinto\nP7 
+ : Liam Lawson\nP8 : Pierre Gasly\nP9 : Carlos Sainz\nP10 : Oliver Bearman\
+ nP11 : Oscar Piastri\nP12 : Nico Hülkenberg\nP13 : Gabriel Bortoleto\nP14
+  : Esteban Ocon\nP15 : Lance Stroll\nP16 : Valtteri Bottas\nDNF : Sergio P
+ érez\, Lando Norris\, George Russell\, Fernando Alonso\, Alexander Albon\
+ nDNS : Arvid Lindblad
+URL:https://en.wikipedia.org/wiki/2026_Canadian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Canada)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Canada)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-6-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260606T210000
+DTEND;TZID=Asia/Bangkok:20260606T220000
+SUMMARY:F1 QF (Monaco)
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Max Verstappen\nP3 : Lewis Ham
+ ilton\nP4 : Charles Leclerc\nP5 : Isack Hadjar\nP6 : George Russell\nP7 : 
+ Oscar Piastri\nP8 : Lando Norris\nP9 : Pierre Gasly\nP10 : Liam Lawson\nP1
+ 1 : Alexander Albon\nP12 : Carlos Sainz\nP13 : Nico Hülkenberg\nP14 : Fra
+ nco Colapinto\nP15 : Arvid Lindblad\nP16 : Gabriel Bortoleto\nP17 : Esteba
+ n Ocon\nP18 : Sergio Pérez\nP19 : Oliver Bearman\nP20 : Valtteri Bottas\n
+ P21 : Fernando Alonso\nP22 : Lance Stroll
+URL:https://en.wikipedia.org/wiki/2026_Monaco_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Monaco)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Monaco)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-6-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260607T200000
+DTEND;TZID=Asia/Bangkok:20260607T222331
+SUMMARY:F1 Race (Monaco)
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Lewis Hamilton\nP3 : Isack Had
+ jar\nP4 : Oscar Piastri\nP5 : Liam Lawson\nP6 : Arvid Lindblad\nP7 : Pierr
+ e Gasly\nP8 : Alexander Albon\nP9 : Esteban Ocon\nP10 : Fernando Alonso\nP
+ 11 : Gabriel Bortoleto\nP12 : George Russell\nP13 : Nico Hülkenberg\nP14 
+ : Franco Colapinto\nP15 : Sergio Pérez\nP16 : Carlos Sainz\nDNF : Charles
+  Leclerc\, Lance Stroll\, Lando Norris\, Oliver Bearman\, Valtteri Bottas\
+ , Max Verstappen
+URL:https://en.wikipedia.org/wiki/2026_Monaco_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Monaco)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Monaco)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-7-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260613T210000
+DTEND;TZID=Asia/Bangkok:20260613T220000
+SUMMARY:F1 QF (Spain\, Barcelona)
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:P1 : George Russell\nP2 : Lewis Hamilton\nP3 : Andrea Kimi Anto
+ nelli\nP4 : Lando Norris\nP5 : Max Verstappen\nP6 : Isack Hadjar\nP7 : Osc
+ ar Piastri\nP8 : Liam Lawson\nP9 : Nico Hülkenberg\nP10 : Charles Leclerc
+ \nP11 : Arvid Lindblad\nP12 : Gabriel Bortoleto\nP13 : Franco Colapinto\nP
+ 14 : Pierre Gasly\nP15 : Oliver Bearman\nP16 : Carlos Sainz\nP17 : Esteban
+  Ocon\nP18 : Alexander Albon\nP19 : Sergio Pérez\nP20 : Valtteri Bottas\n
+ P21 : Lance Stroll\nP22 : Fernando Alonso
+URL:https://en.wikipedia.org/wiki/2026_Barcelona-Catalunya
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Spain\, Barcelona)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Spain\, Barcelona)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-7-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260614T200000
+DTEND;TZID=Asia/Bangkok:20260614T213228
+SUMMARY:F1 Race (Spain\, Barcelona)
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:P1 : Lewis Hamilton\nP2 : George Russell\nP3 : Lando Norris\nP4
+  : Max Verstappen\nP5 : Oscar Piastri\nP6 : Isack Hadjar\nP7 : Pierre Gasl
+ y\nP8 : Liam Lawson\nP9 : Arvid Lindblad\nP10 : Franco Colapinto\nP11 : Ga
+ briel Bortoleto\nP12 : Carlos Sainz\nP13 : Esteban Ocon\nP14 : Sergio Pér
+ ez\nP15 : Charles Leclerc\nP16 : Andrea Kimi Antonelli\nP17 : Oliver Bearm
+ an\nDNF : Alexander Albon\, Fernando Alonso\, Nico Hülkenberg\, Valtteri 
+ Bottas\, Lance Stroll
+URL:https://en.wikipedia.org/wiki/2026_Barcelona-Catalunya
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Spain\, Barcelona)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Spain\, Barcelona)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-8-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260627T210000
+DTEND;TZID=Asia/Bangkok:20260627T220000
+SUMMARY:F1 QF (Austria)
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:P1 : George Russell\nP2 : Charles Leclerc\nP3 : Lewis Hamilton\
+ nP4 : Andrea Kimi Antonelli\nP5 : Max Verstappen\nP6 : Lando Norris\nP7 : 
+ Oscar Piastri\nP8 : Isack Hadjar\nP9 : Liam Lawson\nP10 : Arvid Lindblad\n
+ P11 : Pierre Gasly\nP12 : Gabriel Bortoleto\nP13 : Oliver Bearman\nP14 : N
+ ico Hülkenberg\nP15 : Esteban Ocon\nP16 : Franco Colapinto\nP17 : Carlos 
+ Sainz\nP18 : Alexander Albon\nP19 : Sergio Pérez\nP20 : Valtteri Bottas\n
+ P21 : Fernando Alonso\nP22 : Lance Stroll
+URL:https://en.wikipedia.org/wiki/2026_Austrian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Austria)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Austria)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-8-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260628T200000
+DTEND;TZID=Asia/Bangkok:20260628T212637
+SUMMARY:F1 Race (Austria)
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:P1 : George Russell\nP2 : Max Verstappen\nP3 : Andrea Kimi Anto
+ nelli\nP4 : Oscar Piastri\nP5 : Lewis Hamilton\nP6 : Isack Hadjar\nP7 : La
+ ndo Norris\nP8 : Charles Leclerc\nP9 : Liam Lawson\nP10 : Arvid Lindblad\n
+ P11 : Gabriel Bortoleto\nP12 : Nico Hülkenberg\nP13 : Pierre Gasly\nP14 :
+  Oliver Bearman\nP15 : Franco Colapinto\nP16 : Esteban Ocon\nP17 : Alexand
+ er Albon\nP18 : Fernando Alonso\nDNF : Lance Stroll\, Carlos Sainz\, Sergi
+ o Pérez\, Valtteri Bottas
+URL:https://en.wikipedia.org/wiki/2026_Austrian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Austria)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Austria)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-9-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260704T220000
+DTEND;TZID=Asia/Bangkok:20260704T230000
+SUMMARY:F1 QF (UK)
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Charles Leclerc\nP3 : Lewis Ha
+ milton\nP4 : George Russell\nP5 : Isack Hadjar\nP6 : Lando Norris\nP7 : Ma
+ x Verstappen\nP8 : Oscar Piastri\nP9 : Arvid Lindblad\nP10 : Liam Lawson\n
+ P11 : Gabriel Bortoleto\nP12 : Pierre Gasly\nP13 : Nico Hülkenberg\nP14 :
+  Oliver Bearman\nP15 : Carlos Sainz\nP16 : Alexander Albon\nP17 : Esteban 
+ Ocon\nP18 : Valtteri Bottas\nP19 : Franco Colapinto\nP20 : Sergio Pérez\n
+ P21 : Lance Stroll\nP22 : Fernando Alonso
+URL:https://en.wikipedia.org/wiki/2026_British_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (UK)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (UK)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-9-sprint@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260704T180000
+DTEND;TZID=Asia/Bangkok:20260704T182612
+SUMMARY:F1 Sprint (UK)
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Lewis Hamilton\nP3 : Lando Nor
+ ris\nP4 : George Russell\nP5 : Charles Leclerc\nP6 : Max Verstappen\nP7 : 
+ Oscar Piastri\nP8 : Liam Lawson\nP9 : Isack Hadjar\nP10 : Arvid Lindblad\n
+ P11 : Pierre Gasly\nP12 : Franco Colapinto\nP13 : Gabriel Bortoleto\nP14 :
+  Oliver Bearman\nP15 : Nico Hülkenberg\nP16 : Esteban Ocon\nP17 : Carlos 
+ Sainz\nP18 : Alexander Albon\nP19 : Valtteri Bottas\nP20 : Fernando Alonso
+ \nP21 : Lance Stroll\nP22 : Sergio Pérez
+URL:https://en.wikipedia.org/wiki/2026_British_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (UK)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (UK)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-9-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260705T210000
+DTEND;TZID=Asia/Bangkok:20260705T222711
+SUMMARY:F1 Race (UK)
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:P1 : Charles Leclerc\nP2 : George Russell\nP3 : Lewis Hamilton\
+ nP4 : Lando Norris\nP5 : Isack Hadjar\nP6 : Liam Lawson\nP7 : Arvid Lindbl
+ ad\nP8 : Gabriel Bortoleto\nP9 : Franco Colapinto\nP10 : Pierre Gasly\nP11
+  : Oscar Piastri\nP12 : Oliver Bearman\nP13 : Esteban Ocon\nP14 : Sergio P
+ érez\nP15 : Andrea Kimi Antonelli\nP16 : Valtteri Bottas\nP17 : Carlos Sa
+ inz\nP18 : Fernando Alonso\nP19 : Lance Stroll\nP20 : Max Verstappen\nDNF 
+ : Alexander Albon\, Nico Hülkenberg
+URL:https://en.wikipedia.org/wiki/2026_British_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (UK)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (UK)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-10-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260718T210000
+DTEND;TZID=Asia/Bangkok:20260718T220000
+SUMMARY:F1 QF (Belgium)
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Max Verstappen\nP3 : Lando Nor
+ ris\nP4 : George Russell\nP5 : Charles Leclerc\nP6 : Lewis Hamilton\nP7 : 
+ Oscar Piastri\nP8 : Arvid Lindblad\nP9 : Gabriel Bortoleto\nP10 : Isack Ha
+ djar\nP11 : Liam Lawson\nP12 : Pierre Gasly\nP13 : Franco Colapinto\nP14 :
+  Nico Hülkenberg\nP15 : Carlos Sainz\nP16 : Oliver Bearman\nP17 : Alexand
+ er Albon\nP18 : Esteban Ocon\nP19 : Valtteri Bottas\nP20 : Sergio Pérez\n
+ P21 : Fernando Alonso\nP22 : Lance Stroll
+URL:https://en.wikipedia.org/wiki/2026_Belgian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Belgium)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Belgium)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-10-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260719T200000
+DTEND;TZID=Asia/Bangkok:20260719T212442
+SUMMARY:F1 Race (Belgium)
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Charles Leclerc\nP3 : Max Vers
+ tappen\nP4 : Lewis Hamilton\nP5 : Oscar Piastri\nP6 : Isack Hadjar\nP7 : L
+ ando Norris\nP8 : Gabriel Bortoleto\nP9 : Arvid Lindblad\nP10 : Franco Col
+ apinto\nP11 : Pierre Gasly\nP12 : Liam Lawson\nP13 : Nico Hülkenberg\nP14
+  : Oliver Bearman\nP15 : Alexander Albon\nP16 : Carlos Sainz\nP17 : Esteba
+ n Ocon\nP18 : Valtteri Bottas\nP19 : Fernando Alonso\nDNF : Lance Stroll\,
+  Sergio Pérez\, George Russell
+URL:https://en.wikipedia.org/wiki/2026_Belgian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Belgium)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Belgium)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-11-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260725T210000
+DTEND;TZID=Asia/Bangkok:20260725T220000
+SUMMARY:F1 QF (Hungary)
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:P1 : Lando Norris\nP2 : Lewis Hamilton\nP3 : Charles Leclerc\nP
+ 4 : Andrea Kimi Antonelli\nP5 : Oscar Piastri\nP6 : Max Verstappen\nP7 : G
+ eorge Russell\nP8 : Isack Hadjar\nP9 : Arvid Lindblad\nP10 : Nico Hülkenb
+ erg\nP11 : Liam Lawson\nP12 : Pierre Gasly\nP13 : Franco Colapinto\nP14 : 
+ Gabriel Bortoleto\nP15 : Esteban Ocon\nP16 : Fernando Alonso\nP17 : Oliver
+  Bearman\nP18 : Carlos Sainz\nP19 : Alexander Albon\nP20 : Lance Stroll\nP
+ 21 : Valtteri Bottas\nP22 : Sergio Pérez
+URL:https://en.wikipedia.org/wiki/2026_Hungarian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Hungary)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Hungary)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-11-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260726T200000
+DTEND;TZID=Asia/Bangkok:20260726T213956
+SUMMARY:F1 Race (Hungary)
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:P1 : Lando Norris\nP2 : Max Verstappen\nP3 : Andrea Kimi Antone
+ lli\nP4 : Charles Leclerc\nP5 : Lewis Hamilton\nP6 : Isack Hadjar\nP7 : Ge
+ orge Russell\nP8 : Liam Lawson\nP9 : Nico Hülkenberg\nP10 : Arvid Lindbla
+ d\nP11 : Gabriel Bortoleto\nP12 : Pierre Gasly\nP13 : Lance Stroll\nP14 : 
+ Fernando Alonso\nP15 : Franco Colapinto\nP16 : Esteban Ocon\nP17 : Alexand
+ er Albon\nP18 : Carlos Sainz\nP19 : Oliver Bearman\nDNF : Oscar Piastri\, 
+ Sergio Pérez\, Valtteri Bottas
+URL:https://en.wikipedia.org/wiki/2026_Hungarian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Hungary)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Hungary)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-12-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260822T210000
+DTEND;TZID=Asia/Bangkok:20260822T220000
+SUMMARY:F1 QF (Netherlands)
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:P1 : Lando Norris\nP2 : George Russell\nP3 : Andrea Kimi Antone
+ lli\nP4 : Oscar Piastri\nP5 : Lewis Hamilton\nP6 : Charles Leclerc\nP7 : M
+ ax Verstappen\nP8 : Liam Lawson\nP9 : Gabriel Bortoleto\nP10 : Arvid Lindb
+ lad\nP11 : Pierre Gasly\nP12 : Yuki Tsunoda\nP13 : Nico Hülkenberg\nP14 :
+  Franco Colapinto\nP15 : Esteban Ocon\nP16 : Alexander Albon\nP17 : Carlos
+  Sainz\nP18 : Fernando Alonso\nP19 : Lance Stroll\nP20 : Oliver Bearman\nP
+ 21 : Valtteri Bottas\nP22 : Sergio Pérez
+URL:https://en.wikipedia.org/wiki/2026_Dutch_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Netherlands)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Netherlands)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-12-sprint@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260822T170000
+DTEND;TZID=Asia/Bangkok:20260822T173025
+SUMMARY:F1 Sprint (Netherlands)
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:P1 : George Russell\nP2 : Charles Leclerc\nP3 : Lando Norris\nP
+ 4 : Andrea Kimi Antonelli\nP5 : Oscar Piastri\nP6 : Max Verstappen\nP7 : L
+ ewis Hamilton\nP8 : Pierre Gasly\nP9 : Gabriel Bortoleto\nP10 : Arvid Lind
+ blad\nP11 : Liam Lawson\nP12 : Franco Colapinto\nP13 : Yuki Tsunoda\nP14 :
+  Esteban Ocon\nP15 : Oliver Bearman\nP16 : Alexander Albon\nP17 : Lance St
+ roll\nP18 : Fernando Alonso\nP19 : Valtteri Bottas\nP20 : Carlos Sainz\nP2
+ 1 : Sergio Pérez\nDNF : Nico Hülkenberg
+URL:https://en.wikipedia.org/wiki/2026_Dutch_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (Netherlands)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (Netherlands)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-12-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260823T200000
+DTEND;TZID=Asia/Bangkok:20260823T220444
+SUMMARY:F1 Race (Netherlands)
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:P1 : Lando Norris\nP2 : Andrea Kimi Antonelli\nP3 : George Russ
+ ell\nP4 : Lewis Hamilton\nP5 : Charles Leclerc\nP6 : Oscar Piastri\nP7 : L
+ iam Lawson\nP8 : Nico Hülkenberg\nP9 : Fernando Alonso\nP10 : Pierre Gasl
+ y\nP11 : Yuki Tsunoda\nP12 : Arvid Lindblad\nP13 : Gabriel Bortoleto\nP14 
+ : Franco Colapinto\nP15 : Sergio Pérez\nP16 : Carlos Sainz\nP17 : Alexand
+ er Albon\nDNF : Valtteri Bottas\, Esteban Ocon\, Lance Stroll\, Oliver Bea
+ rman\, Max Verstappen
+URL:https://en.wikipedia.org/wiki/2026_Dutch_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Netherlands)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Netherlands)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-13-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260905T210000
+DTEND;TZID=Asia/Bangkok:20260905T220000
+SUMMARY:F1 QF (Italy)
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:P1 : Pierre Gasly\nP2 : George Russell\nP3 : Oscar Piastri\nP4 
+ : Charles Leclerc\nP5 : Lewis Hamilton\nP6 : Max Verstappen\nP7 : Andrea K
+ imi Antonelli\nP8 : Franco Colapinto\nP9 : Lando Norris\nP10 : Arvid Lindb
+ lad\nP11 : Gabriel Bortoleto\nP12 : Oliver Bearman\nP13 : Nico Hülkenberg
+ \nP14 : Liam Lawson\nP15 : Carlos Sainz\nP16 : Esteban Ocon\nP17 : Yuki Ts
+ unoda\nP18 : Alexander Albon\nP19 : Valtteri Bottas\nP20 : Sergio Pérez\n
+ P21 : Fernando Alonso\nP22 : Lance Stroll
+URL:https://en.wikipedia.org/wiki/2026_Italian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Italy)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Italy)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-13-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260906T200000
+DTEND;TZID=Asia/Bangkok:20260906T215115
+SUMMARY:F1 Race (Italy)
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : George Russell\nP3 : Max Verst
+ appen\nP4 : Lando Norris\nP5 : Oscar Piastri\nP6 : Lewis Hamilton\nP7 : Pi
+ erre Gasly\nP8 : Arvid Lindblad\nP9 : Franco Colapinto\nP10 : Yuki Tsunoda
+ \nP11 : Gabriel Bortoleto\nP12 : Nico Hülkenberg\nP13 : Carlos Sainz\nP14
+  : Liam Lawson\nP15 : Oliver Bearman\nP16 : Esteban Ocon\nP17 : Alexander 
+ Albon\nP18 : Sergio Pérez\nP19 : Valtteri Bottas\nDNF : Lance Stroll\, Fe
+ rnando Alonso\, Charles Leclerc
+URL:https://en.wikipedia.org/wiki/2026_Italian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Italy)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Italy)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-14-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260912T210000
+DTEND;TZID=Asia/Bangkok:20260912T220000
+SUMMARY:F1 QF (Spain\, Madrid)
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:P1 : Lando Norris\nP2 : Andrea Kimi Antonelli\nP3 : Max Verstap
+ pen\nP4 : Lewis Hamilton\nP5 : Charles Leclerc\nP6 : George Russell\nP7 : 
+ Oscar Piastri\nP8 : Liam Lawson\nP9 : Franco Colapinto\nP10 : Arvid Lindbl
+ ad\nP11 : Nico Hülkenberg\nP12 : Gabriel Bortoleto\nP13 : Esteban Ocon\nP
+ 14 : Pierre Gasly\nP15 : Yuki Tsunoda\nP16 : Alexander Albon\nP17 : Carlos
+  Sainz\nP18 : Fernando Alonso\nP19 : Sergio Pérez\nP20 : Valtteri Bottas
+URL:https://en.wikipedia.org/wiki/2026_Spanish_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Spain\, Madrid)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Spain\, Madrid)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-14-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260913T200000
+DTEND;TZID=Asia/Bangkok:20260913T213423
+SUMMARY:F1 Race (Spain\, Madrid)
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Max Verstappen\nP3 : Lando Nor
+ ris\nP4 : Charles Leclerc\nP5 : George Russell\nP6 : Liam Lawson\nP7 : Fra
+ nco Colapinto\nP8 : Oscar Piastri\nP9 : Arvid Lindblad\nP10 : Nico Hülken
+ berg\nP11 : Esteban Ocon\nP12 : Pierre Gasly\nP13 : Gabriel Bortoleto\nP14
+  : Yuki Tsunoda\nP15 : Alexander Albon\nP16 : Oliver Bearman\nP17 : Fernan
+ do Alonso\nP18 : Valtteri Bottas\nDNF : Carlos Sainz\, Sergio Pérez\, Lan
+ ce Stroll\, Lewis Hamilton
+URL:https://en.wikipedia.org/wiki/2026_Spanish_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Spain\, Madrid)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Spain\, Madrid)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-15-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260925T190000
+DTEND;TZID=Asia/Bangkok:20260925T200000
+SUMMARY:F1 QF (Azerbaijan)
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:P1 : George Russell\nP2 : Charles Leclerc\nP3 : Oscar Piastri\n
+ P4 : Isack Hadjar\nP5 : Lando Norris\nP6 : Lewis Hamilton\nP7 : Pierre Gas
+ ly\nP8 : Max Verstappen\nP9 : Carlos Sainz\nP10 : Franco Colapinto\nP11 : 
+ Oliver Bearman\nP12 : Liam Lawson\nP13 : Alexander Albon\nP14 : Esteban Oc
+ on\nP15 : Arvid Lindblad\nP16 : Andrea Kimi Antonelli\nP17 : Gabriel Borto
+ leto\nP18 : Nico Hülkenberg\nP19 : Fernando Alonso\nP20 : Sergio Pérez\n
+ P21 : Lance Stroll\nP22 : Valtteri Bottas
+URL:https://en.wikipedia.org/wiki/2026_Azerbaijan_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Azerbaijan)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Azerbaijan)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-15-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260926T180000
+DTEND;TZID=Asia/Bangkok:20260926T193802
+SUMMARY:F1 Race (Azerbaijan)
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:P1 : George Russell\nP2 : Max Verstappen\nP3 : Isack Hadjar\nP4
+  : Charles Leclerc\nP5 : Andrea Kimi Antonelli\nP6 : Lewis Hamilton\nP7 : 
+ Arvid Lindblad\nP8 : Esteban Ocon\nP9 : Oliver Bearman\nP10 : Carlos Sainz
+ \nP11 : Nico Hülkenberg\nP12 : Liam Lawson\nP13 : Oscar Piastri\nP14 : Se
+ rgio Pérez\nP15 : Gabriel Bortoleto\nP16 : Valtteri Bottas\nDNF : Franco 
+ Colapinto\, Pierre Gasly\, Lando Norris\, Alexander Albon\, Fernando Alons
+ o\, Lance Stroll
+URL:https://en.wikipedia.org/wiki/2026_Azerbaijan_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Azerbaijan)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Azerbaijan)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-16-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261003T150000
+DTEND;TZID=Asia/Bangkok:20261003T160000
+SUMMARY:F1 QF (Malaysia)
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:P1 : Max Verstappen\nP2 : Lewis Hamilton\nP3 : Isack Hadjar\nP4
+  : Andrea Kimi Antonelli\nP5 : Charles Leclerc\nP6 : Lando Norris\nP7 : Os
+ car Piastri\nP8 : George Russell\nP9 : Pierre Gasly\nP10 : Gabriel Bortole
+ to\nP11 : Liam Lawson\nP12 : Fernando Alonso\nP13 : Carlos Sainz\nP14 : La
+ nce Stroll\nP15 : Franco Colapinto\nP16 : Arvid Lindblad\nP17 : Nico Hülk
+ enberg\nP18 : Oliver Bearman\nP19 : Esteban Ocon\nP20 : Alexander Albon\nP
+ 21 : Valtteri Bottas\nP22 : Sergio Pérez
+URL:https://en.wikipedia.org/wiki/2026_Bahrain_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Malaysia)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Malaysia)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-16-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261004T140000
+DTEND;TZID=Asia/Bangkok:20261004T154714
+SUMMARY:F1 Race (Malaysia)
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:P1 : Max Verstappen\nP2 : Andrea Kimi Antonelli\nP3 : Lewis Ham
+ ilton\nP4 : Charles Leclerc\nP5 : Isack Hadjar\nP6 : Oscar Piastri\nP7 : L
+ iam Lawson\nP8 : Fernando Alonso\nP9 : Lando Norris\nP10 : Arvid Lindblad\
+ nP11 : Nico Hülkenberg\nP12 : Lance Stroll\nP13 : Franco Colapinto\nP14 :
+  Oliver Bearman\nP15 : Esteban Ocon\nP16 : Pierre Gasly\nP17 : Carlos Sain
+ z\nP18 : Gabriel Bortoleto\nP19 : Sergio Pérez\nP20 : George Russell\nDNF
+  : Alexander Albon\, Valtteri Bottas
+URL:https://en.wikipedia.org/wiki/2026_Bahrain_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Malaysia)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Malaysia)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-17-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261010T200000
+DTEND;TZID=Asia/Bangkok:20261010T210000
+SUMMARY:F1 QF (Singapore)
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:P1 : Max Verstappen\nP2 : Charles Leclerc\nP3 : Lewis Hamilton\
+ nP4 : Andrea Kimi Antonelli\nP5 : Lando Norris\nP6 : George Russell\nP7 : 
+ Oscar Piastri\nP8 : Pierre Gasly\nP9 : Liam Lawson\nP10 : Arvid Lindblad\n
+ P11 : Nico Hülkenberg\nP12 : Oliver Bearman\nP13 : Esteban Ocon\nP14 : Ca
+ rlos Sainz\nP15 : Gabriel Bortoleto\nP16 : Franco Colapinto\nP17 : Fernand
+ o Alonso\nP18 : Alexander Albon\nP19 : Lance Stroll\nP20 : Sergio Pérez\n
+ P21 : Valtteri Bottas\nP22 : Isack Hadjar
+URL:https://en.wikipedia.org/wiki/2026_Singapore_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Singapore)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Singapore)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-17-sprint@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261010T160000
+DTEND;TZID=Asia/Bangkok:20261010T163948
+SUMMARY:F1 Sprint (Singapore)
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:P1 : Max Verstappen\nP2 : Lewis Hamilton\nP3 : Charles Leclerc\
+ nP4 : Andrea Kimi Antonelli\nP5 : Liam Lawson\nP6 : Oliver Bearman\nP7 : N
+ ico Hülkenberg\nP8 : Lando Norris\nP9 : Pierre Gasly\nP10 : Esteban Ocon\
+ nP11 : Fernando Alonso\nP12 : Carlos Sainz\nP13 : Arvid Lindblad\nP14 : Os
+ car Piastri\nDNF : Alexander Albon\, Gabriel Bortoleto\, Valtteri Bottas\,
+  Isack Hadjar\, Franco Colapinto\, George Russell\, Sergio Pérez\, Lance 
+ Stroll
+URL:https://en.wikipedia.org/wiki/2026_Singapore_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (Singapore)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Sprint (Singapore)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-17-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261011T190000
+DTEND;TZID=Asia/Bangkok:20261011T204200
+SUMMARY:F1 Race (Singapore)
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:P1 : Max Verstappen\nP2 : Charles Leclerc\nP3 : Andrea Kimi Ant
+ onelli\nP4 : Lando Norris\nP5 : Oscar Piastri\nP6 : Lewis Hamilton\nP7 : L
+ iam Lawson\nP8 : Nico Hülkenberg\nP9 : George Russell\nP10 : Isack Hadjar
+ \nP11 : Pierre Gasly\nP12 : Oliver Bearman\nP13 : Esteban Ocon\nP14 : Carl
+ os Sainz\nP15 : Arvid Lindblad\nP16 : Fernando Alonso\nP17 : Sergio Pérez
+ \nP18 : Alexander Albon\nP19 : Valtteri Bottas\nDNF : Lance Stroll\, Franc
+ o Colapinto\, Gabriel Bortoleto
+URL:https://en.wikipedia.org/wiki/2026_Singapore_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Singapore)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Singapore)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-18-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261025T040000
+DTEND;TZID=Asia/Bangkok:20261025T050000
+SUMMARY:F1 QF (USA\, Austin)
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Max Verstappen\nP3 : Isack Had
+ jar\nP4 : Charles Leclerc\nP5 : Lewis Hamilton\nP6 : George Russell\nP7 : 
+ Oscar Piastri\nP8 : Lando Norris\nP9 : Arvid Lindblad\nP10 : Liam Lawson\n
+ P11 : Pierre Gasly\nP12 : Nico Hülkenberg\nP13 : Gabriel Bortoleto\nP14 :
+  Franco Colapinto\nP15 : Fernando Alonso\nP16 : Oliver Bearman\nP17 : Este
+ ban Ocon\nP18 : Lance Stroll\nP19 : Carlos Sainz\nP20 : Alexander Albon\nP
+ 21 : Sergio Pérez\nP22 : Valtteri Bottas
+URL:https://en.wikipedia.org/wiki/2026_United_States_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (USA\, Austin)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (USA\, Austin)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-18-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261026T030000
+DTEND;TZID=Asia/Bangkok:20261026T043516
+SUMMARY:F1 Race (USA\, Austin)
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:P1 : Andrea Kimi Antonelli\nP2 : Charles Leclerc\nP3 : Max Vers
+ tappen\nP4 : Lewis Hamilton\nP5 : Lando Norris\nP6 : Isack Hadjar\nP7 : Os
+ car Piastri\nP8 : George Russell\nP9 : Liam Lawson\nP10 : Pierre Gasly\nP1
+ 1 : Nico Hülkenberg\nP12 : Arvid Lindblad\nP13 : Gabriel Bortoleto\nP14 :
+  Esteban Ocon\nP15 : Lance Stroll\nP16 : Fernando Alonso\nP17 : Alexander 
+ Albon\nP18 : Carlos Sainz\nP19 : Sergio Pérez\nDNF : Valtteri Bottas\, Fr
+ anco Colapinto\, Oliver Bearman
+URL:https://en.wikipedia.org/wiki/2026_United_States_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (USA\, Austin)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (USA\, Austin)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-19-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261101T040000
+DTEND;TZID=Asia/Bangkok:20261101T050000
+SUMMARY:F1 QF (Mexico)
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:P1 : Lewis Hamilton\nP2 : George Russell\nP3 : Charles Leclerc\
+ nP4 : Max Verstappen\nP5 : Andrea Kimi Antonelli\nP6 : Lando Norris\nP7 : 
+ Isack Hadjar\nP8 : Arvid Lindblad\nP8 : Liam Lawson\nP9 : Pierre Gasly\nP1
+ 0 : Nico Hülkenberg\nP11 : Franco Colapinto\nP12 : Oscar Piastri\nP13 : G
+ abriel Bortoleto\nP14 : Oliver Bearman\nP15 : Carlos Sainz\nP16 : Alexande
+ r Albon\nP17 : Fernando Alonso\nP18 : Ryo Hirakawa\nP19 : Lance Stroll\nP2
+ 0 : Sergio Pérez\nP21 : Valtteri Bottas
+URL:https://en.wikipedia.org/wiki/2026_Mexico_City_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Mexico)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Mexico)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-19-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261102T030000
+DTEND;TZID=Asia/Bangkok:20261102T052028
+SUMMARY:F1 Race (Mexico)
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:P1 : Max Verstappen\nP2 : Lewis Hamilton\nP3 : Andrea Kimi Anto
+ nelli\nP4 : Charles Leclerc\nP5 : Lando Norris\nP6 : George Russell\nP7 : 
+ Liam Lawson\nP8 : Gabriel Bortoleto\nP9 : Isack Hadjar\nP10 : Ryo Hirakawa
+ \nP11 : Alexander Albon\nP12 : Carlos Sainz\nP13 : Oscar Piastri\nP14 : Ni
+ co Hülkenberg\nP15 : Franco Colapinto\nP16 : Sergio Pérez\nP17 : Pierre 
+ Gasly\nDNF : Arvid Lindblad\, Oliver Bearman\, Valtteri Bottas\, Lance Str
+ oll\, Fernando Alonso
+URL:https://en.wikipedia.org/wiki/2026_Mexico_City_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Mexico)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Mexico)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-20-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261108T010000
+DTEND;TZID=Asia/Bangkok:20261108T020000
+SUMMARY:F1 QF (Brazil)
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Brazilian Grand Prix\nเริ่ม: อา. 8 พ.ย. 01:00
+  น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2026_Brazilian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Brazil)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Brazil)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-20-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261109T000000
+DTEND;TZID=Asia/Bangkok:20261109T020000
+SUMMARY:F1 Race (Brazil)
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Brazilian Grand Prix\nเริ่ม: จ. 9 พ.ย. 00:00 
+ น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2026_Brazilian_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Brazil)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Brazil)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-21-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261121T110000
+DTEND;TZID=Asia/Bangkok:20261121T120000
+SUMMARY:F1 QF (USA\, Las Vegas)
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Las Vegas Grand Prix\nเริ่ม: ส. 21 พ.ย. 11:00 
+ น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2026_Las_Vegas_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (USA\, Las Vegas)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (USA\, Las Vegas)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-21-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261122T110000
+DTEND;TZID=Asia/Bangkok:20261122T130000
+SUMMARY:F1 Race (USA\, Las Vegas)
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Las Vegas Grand Prix\nเริ่ม: อา. 22 พ.ย. 11:0
+ 0 น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2026_Las_Vegas_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (USA\, Las Vegas)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (USA\, Las Vegas)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-22-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261129T010000
+DTEND;TZID=Asia/Bangkok:20261129T020000
+SUMMARY:F1 QF (Qatar)
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Qatar Grand Prix\nเริ่ม: อา. 29 พ.ย. 01:00 
+ น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2026_Qatar_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Qatar)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (Qatar)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-22-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261129T230000
+DTEND;TZID=Asia/Bangkok:20261130T010000
+SUMMARY:F1 Race (Qatar)
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Qatar Grand Prix\nเริ่ม: อา. 29 พ.ย. 23:00 
+ น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2026_Qatar_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Qatar)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (Qatar)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-23-qf@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261205T210000
+DTEND;TZID=Asia/Bangkok:20261205T220000
+SUMMARY:F1 QF (UAE)
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Abu Dhabi Grand Prix\nเริ่ม: ส. 5 ธ.ค. 21:00 
+ น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2026_Abu_Dhabi_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (UAE)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 QF (UAE)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-f1-2026-23-race@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261206T200000
+DTEND;TZID=Asia/Bangkok:20261206T220000
+SUMMARY:F1 Race (UAE)
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Abu Dhabi Grand Prix\nเริ่ม: อา. 6 ธ.ค. 20:00
+  น. (เวลาไทย)
+URL:https://en.wikipedia.org/wiki/2026_Abu_Dhabi_Grand_Prix
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (UAE)
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:F1 Race (UAE)
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
