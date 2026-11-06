@@ -342,9 +342,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401909302@rustlyr.github.io
-SEQUENCE:0
-DTSTAMP:20261106T220159Z
-LAST-MODIFIED:20261106T220159Z
+SEQUENCE:1
+DTSTAMP:20261106T224701Z
+LAST-MODIFIED:20261106T224701Z
 DTSTART;TZID=Asia/Bangkok:20261114T093000
 DTEND;TZID=Asia/Bangkok:20261114T120000
 SUMMARY:San Antonio Spurs - Golden State Warriors
@@ -355,11 +355,12 @@ DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
  Jones Garcia\n- Luke Kornet\n- Jordan McLaughlin\n- Jayden Quaintance (Out
  )\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembanyama\n\nGolden State
   Warriors\n- Charles Bassey\n- Jimmy Butler III (Out)\n- LJ Cryer\n- Steph
- en Curry\n- Draymond Green\n- Al Horford\n- Graham Ike\n- Yaxel Lendeborg\
- n- Malevy Leons\n- De'Anthony Melton\n- Moses Moody (Out)\n- Georges Niang
- \n- Gary Payton II\n- Brandin Podziemski\n- Kristaps Porzingis (Out)\n- Wi
- ll Richard\n- Gui Santos (Day-To-Day)\n- Brandon Williams\nเริ่ม
- : ส. 14 พ.ย. 09:30 น. (เวลาไทย)
+ en Curry\n- Draymond Green (Day-To-Day)\n- Al Horford\n- Graham Ike\n- Yax
+ el Lendeborg\n- Malevy Leons\n- De'Anthony Melton\n- Moses Moody (Out)\n- 
+ Georges Niang\n- Gary Payton II (Day-To-Day)\n- Brandin Podziemski\n- Kris
+ taps Porzingis (Out)\n- Will Richard\n- Gui Santos (Day-To-Day)\n- Brandon
+  Williams\nเริ่ม: ส. 14 พ.ย. 09:30 น. (เวลาไ
+ ทย)
 URL:https://www.espn.com/nba/game/_/gameId/401909302/warriors-spurs
 STATUS:CONFIRMED
 BEGIN:VALARM
