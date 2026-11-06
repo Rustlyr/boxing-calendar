@@ -46,9 +46,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:boxcal-1000000049@boxingscene.com
-SEQUENCE:1
-DTSTAMP:20261106T131705Z
-LAST-MODIFIED:20261106T131705Z
+SEQUENCE:2
+DTSTAMP:20261106T151705Z
+LAST-MODIFIED:20261106T151705Z
 DTSTART;TZID=Asia/Bangkok:20261114T230000
 DTEND;TZID=Asia/Bangkok:20261115T030000
 SUMMARY:Carlos Adames vs Gerome Warburton
@@ -57,8 +57,8 @@ DESCRIPTION:Carlos Adames Vs. Gerome Warburton\nBruno Surace Vs. Kamil Bedn
  arek\nIvan Ortiz Vs. Dariial Kuchmenov\nRadzhab Butaev Vs. Alexander Castr
  o\n\nถ่ายทอด: -\nเริ่ม: ส. 14 พ.ย. 23:00 น
  . (เวลาไทย)\nhttps://www.boxingscene.com/events/carlos-adame
- s-vs-jerome-warburton
-URL:https://www.boxingscene.com/events/carlos-adames-vs-jerome-warburton
+ s-vs-gerome-warburton
+URL:https://www.boxingscene.com/events/carlos-adames-vs-gerome-warburton
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
