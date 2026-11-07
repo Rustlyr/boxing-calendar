@@ -210,9 +210,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401909295@rustlyr.github.io
-SEQUENCE:1
-DTSTAMP:20261107T004701Z
-LAST-MODIFIED:20261107T004701Z
+SEQUENCE:2
+DTSTAMP:20261107T034701Z
+LAST-MODIFIED:20261107T034701Z
 DTSTART;TZID=Asia/Bangkok:20261107T100000
 DTEND;TZID=Asia/Bangkok:20261107T123000
 SUMMARY:Sacramento Kings - San Antonio Spurs
@@ -228,7 +228,7 @@ DESCRIPTION:Sacramento Kings\n- Precious Achiuwa\n- Darius Acuff Jr.\n- Lea
  Jordan McLaughlin\n- Jayden Quaintance (Out)\n- Tarris Reed Jr.\n- Devin V
  assell\n- Victor Wembanyama\nเริ่ม: ส. 7 พ.ย. 10:00 น. (
  เวลาไทย)
-URL:https://www.espn.com/nba/game/_/gameId/401909295/spurs-kings
+URL:https://www.espn.com/nba/game?gameId=401909295
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
