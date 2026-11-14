@@ -1,0 +1,255 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FED
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sportcal-fomc-2026-12-09@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261101T215808Z
+LAST-MODIFIED:20261101T215808Z
+DTSTART;TZID=Asia/Bangkok:20261210T020000
+DTEND;TZID=Asia/Bangkok:20261210T033000
+SUMMARY:FOMC Rate Decision + Dot Plot
+LOCATION:Federal Reserve\, Washington D.C.
+DESCRIPTION:ประกาศอัตราดอกเบี้ยนโ
+ ยบาย ตามด้วยประธาน Fed แถลงข
+ ่าว 30 นาทีหลังประกาศ\nมี Dot Plot: 
+ กรรมการ Fed คาดการณ์ดอกเบี้ย
+ และเศรษฐกิจ\nเริ่ม: พฤ. 10 ธ.ค. 02
+ :00 น. (เวลาไทย)
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision + Dot Plot
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision + Dot Plot
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fomc-2027-01-27@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261101T215808Z
+LAST-MODIFIED:20261101T215808Z
+DTSTART;TZID=Asia/Bangkok:20270128T020000
+DTEND;TZID=Asia/Bangkok:20270128T033000
+SUMMARY:FOMC Rate Decision
+LOCATION:Federal Reserve\, Washington D.C.
+DESCRIPTION:ประกาศอัตราดอกเบี้ยนโ
+ ยบาย ตามด้วยประธาน Fed แถลงข
+ ่าว 30 นาทีหลังประกาศ\nเริ่ม: 
+ พฤ. 28 ม.ค. 02:00 น. (เวลาไทย)
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fomc-2027-03-17@rustlyr.github.io
+SEQUENCE:1
+DTSTAMP:20261112T174701Z
+LAST-MODIFIED:20261112T174701Z
+DTSTART;TZID=Asia/Bangkok:20270318T010000
+DTEND;TZID=Asia/Bangkok:20270318T023000
+SUMMARY:FOMC Rate Decision
+LOCATION:Federal Reserve\, Washington D.C.
+DESCRIPTION:ประกาศอัตราดอกเบี้ยนโ
+ ยบาย ตามด้วยประธาน Fed แถลงข
+ ่าว 30 นาทีหลังประกาศ\nเริ่ม: 
+ พฤ. 18 มี.ค. 01:00 น. (เวลาไทย)
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fomc-2027-04-28@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261101T215808Z
+LAST-MODIFIED:20261101T215808Z
+DTSTART;TZID=Asia/Bangkok:20270429T010000
+DTEND;TZID=Asia/Bangkok:20270429T023000
+SUMMARY:FOMC Rate Decision
+LOCATION:Federal Reserve\, Washington D.C.
+DESCRIPTION:ประกาศอัตราดอกเบี้ยนโ
+ ยบาย ตามด้วยประธาน Fed แถลงข
+ ่าว 30 นาทีหลังประกาศ\nเริ่ม: 
+ พฤ. 29 เม.ย. 01:00 น. (เวลาไทย)
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fomc-2027-06-09@rustlyr.github.io
+SEQUENCE:1
+DTSTAMP:20261112T174701Z
+LAST-MODIFIED:20261112T174701Z
+DTSTART;TZID=Asia/Bangkok:20270610T010000
+DTEND;TZID=Asia/Bangkok:20270610T023000
+SUMMARY:FOMC Rate Decision
+LOCATION:Federal Reserve\, Washington D.C.
+DESCRIPTION:ประกาศอัตราดอกเบี้ยนโ
+ ยบาย ตามด้วยประธาน Fed แถลงข
+ ่าว 30 นาทีหลังประกาศ\nเริ่ม: 
+ พฤ. 10 มิ.ย. 01:00 น. (เวลาไทย)
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fomc-2027-07-28@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261101T215808Z
+LAST-MODIFIED:20261101T215808Z
+DTSTART;TZID=Asia/Bangkok:20270729T010000
+DTEND;TZID=Asia/Bangkok:20270729T023000
+SUMMARY:FOMC Rate Decision
+LOCATION:Federal Reserve\, Washington D.C.
+DESCRIPTION:ประกาศอัตราดอกเบี้ยนโ
+ ยบาย ตามด้วยประธาน Fed แถลงข
+ ่าว 30 นาทีหลังประกาศ\nเริ่ม: 
+ พฤ. 29 ก.ค. 01:00 น. (เวลาไทย)
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fomc-2027-09-15@rustlyr.github.io
+SEQUENCE:1
+DTSTAMP:20261112T174701Z
+LAST-MODIFIED:20261112T174701Z
+DTSTART;TZID=Asia/Bangkok:20270916T010000
+DTEND;TZID=Asia/Bangkok:20270916T023000
+SUMMARY:FOMC Rate Decision
+LOCATION:Federal Reserve\, Washington D.C.
+DESCRIPTION:ประกาศอัตราดอกเบี้ยนโ
+ ยบาย ตามด้วยประธาน Fed แถลงข
+ ่าว 30 นาทีหลังประกาศ\nเริ่ม: 
+ พฤ. 16 ก.ย. 01:00 น. (เวลาไทย)
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fomc-2027-10-27@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261112T174701Z
+LAST-MODIFIED:20261112T174701Z
+DTSTART;TZID=Asia/Bangkok:20271028T010000
+DTEND;TZID=Asia/Bangkok:20271028T023000
+SUMMARY:FOMC Rate Decision
+LOCATION:Federal Reserve\, Washington D.C.
+DESCRIPTION:ประกาศอัตราดอกเบี้ยนโ
+ ยบาย ตามด้วยประธาน Fed แถลงข
+ ่าว 30 นาทีหลังประกาศ\nเริ่ม: 
+ พฤ. 28 ต.ค. 01:00 น. (เวลาไทย)
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fomc-2027-11-17@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261112T174701Z
+LAST-MODIFIED:20261112T174701Z
+DTSTART;TZID=Asia/Bangkok:20271118T020000
+DTEND;TZID=Asia/Bangkok:20271118T033000
+SUMMARY:FOMC Rate Decision
+LOCATION:Federal Reserve\, Washington D.C.
+DESCRIPTION:ประกาศอัตราดอกเบี้ยนโ
+ ยบาย ตามด้วยประธาน Fed แถลงข
+ ่าว 30 นาทีหลังประกาศ\nเริ่ม: 
+ พฤ. 18 พ.ย. 02:00 น. (เวลาไทย)
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:FOMC Rate Decision
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

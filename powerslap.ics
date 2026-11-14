@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Power Slap
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sportcal-slap-power-slap-27-quinones-vs-godfrey@rustlyr.github.io
+SEQUENCE:1
+DTSTAMP:20261112T194702Z
+LAST-MODIFIED:20261112T194702Z
+DTSTART;TZID=Asia/Bangkok:20261119T230000
+DTEND;TZID=Asia/Bangkok:20261120T020000
+SUMMARY:Power Slap 27: Quinones vs Godfrey
+LOCATION:Ali Bin Hamad Al Attiyah Arena\, Doha Qatar
+DESCRIPTION:Fight Card\n\n• Chin VS Nielsen\n\n• Johnson VS Tracey\n\n
+ • Butt VS Azahar\n\n• Robinson VS Cox\n\n• Truchlik VS Martinez\n\n
+ • Horelican VS Rivero\n\n• Trujillo VS Scambler\n\n• Quinones VS God
+ frey\nเริ่ม: พฤ. 19 พ.ย. 23:00 น. (เวลาไท
+ ย)
+URL:https://www.powerslap.com/event/power-slap-27-quinones-vs-godfrey/
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Power Slap 27: Quinones vs Godfrey
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Power Slap 27: Quinones vs Godfrey
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

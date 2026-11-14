@@ -1,0 +1,462 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NFL · Kansas City Chiefs
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401872931@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20260915T071500
+DTEND;TZID=Asia/Bangkok:20260915T103000
+SUMMARY:Kansas City Chiefs - Denver Broncos
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:FINAL : Kansas City Chiefs WIN\n31-10\n\nQ1 7-7\nQ2 7-0\nQ3 10-
+ 3\nQ4 7-0
+URL:https://www.espn.com/nfl/game/_/gameId/401872931/broncos-chiefs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - Denver Broncos
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - Denver Broncos
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401872945@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20260921T072000
+DTEND;TZID=Asia/Bangkok:20260921T103500
+SUMMARY:Kansas City Chiefs - Indianapolis Colts
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:FINAL : Kansas City Chiefs WIN\n33-30\n\nQ1 10-7\nQ2 7-13\nQ3 7
+ -0\nQ4 3-7\nOT 6-3
+URL:https://www.espn.com/nfl/game/_/gameId/401872945/colts-chiefs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - Indianapolis Colts
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - Indianapolis Colts
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401872952@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20260928T000000
+DTEND;TZID=Asia/Bangkok:20260928T031500
+SUMMARY:Miami Dolphins - Kansas City Chiefs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+DESCRIPTION:FINAL : Kansas City Chiefs WIN\n10-24\n\nQ1 7-7\nQ2 0-7\nQ3 3-0
+ \nQ4 0-10
+URL:https://www.espn.com/nfl/game/_/gameId/401872952/chiefs-dolphins
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miami Dolphins - Kansas City Chiefs
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Miami Dolphins - Kansas City Chiefs
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401872976@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261005T032500
+DTEND;TZID=Asia/Bangkok:20261005T064000
+SUMMARY:Las Vegas Raiders - Kansas City Chiefs
+LOCATION:Allegiant Stadium\, Las Vegas\, NV
+DESCRIPTION:FINAL : Kansas City Chiefs WIN\n27-30\n\nQ1 7-7\nQ2 6-3\nQ3 0-0
+ \nQ4 14-20
+URL:https://www.espn.com/nfl/game/_/gameId/401872976/chiefs-raiders
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Las Vegas Raiders - Kansas City Chiefs
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Las Vegas Raiders - Kansas City Chiefs
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873006@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261019T032500
+DTEND;TZID=Asia/Bangkok:20261019T064000
+SUMMARY:Kansas City Chiefs - Los Angeles Chargers
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:FINAL : Kansas City Chiefs WIN\n22-6\n\nQ1 9-3\nQ2 10-0\nQ3 0-3
+ \nQ4 3-0
+URL:https://www.espn.com/nfl/game/_/gameId/401873006/chargers-chiefs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - Los Angeles Chargers
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - Los Angeles Chargers
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873022@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261026T072000
+DTEND;TZID=Asia/Bangkok:20261026T103500
+SUMMARY:Seattle Seahawks - Kansas City Chiefs
+LOCATION:Lumen Field\, Seattle\, WA
+DESCRIPTION:FINAL : Kansas City Chiefs LOSE\n20-3\n\nQ1 0-0\nQ2 10-0\nQ3 3-
+ 3\nQ4 7-0
+URL:https://www.espn.com/nfl/game/_/gameId/401873022/chiefs-seahawks
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seattle Seahawks - Kansas City Chiefs
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Seattle Seahawks - Kansas City Chiefs
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873033@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261102T042500
+DTEND;TZID=Asia/Bangkok:20261102T074000
+SUMMARY:Denver Broncos - Kansas City Chiefs
+LOCATION:Empower Field at Mile High\, Denver\, CO
+DESCRIPTION:FINAL : Kansas City Chiefs LOSE\n28-24\n\nQ1 3-7\nQ2 10-10\nQ3 
+ 0-7\nQ4 15-0
+URL:https://www.espn.com/nfl/game/_/gameId/401873033/chiefs-broncos
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Denver Broncos - Kansas City Chiefs
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Denver Broncos - Kansas City Chiefs
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873045@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261109T010000
+DTEND;TZID=Asia/Bangkok:20261109T041500
+SUMMARY:Kansas City Chiefs - New York Jets
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:FINAL : Kansas City Chiefs WIN\n35-12\n\nQ1 0-6\nQ2 14-6\nQ3 14
+ -0\nQ4 7-0
+URL:https://www.espn.com/nfl/game/_/gameId/401873045/jets-chiefs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - New York Jets
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - New York Jets
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873058@rustlyr.github.io
+SEQUENCE:18
+DTSTAMP:20261114T164701Z
+LAST-MODIFIED:20261114T164701Z
+DTSTART;TZID=Asia/Bangkok:20261116T010000
+DTEND;TZID=Asia/Bangkok:20261116T041500
+SUMMARY:Atlanta Falcons - Kansas City Chiefs
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+DESCRIPTION:Atlanta Falcons\n- Matthew Bergeron\n- Chris Blair\n- Zachariah
+  Branch (Out)\n- Beaux Collins\n- Andy Dalton\n- Jahan Dotson\n- Khalil He
+ rbert\n- Kyle Hinton\n- Austin Hooper\n- Corey Levin\n- Chris Lindstrom\n-
+  Drake London\n- Jake Matthews\n- Nick Muse\n- Ethan Onianwa\n- Michael Pe
+ nix Jr.\n- Kyle Pitts Sr.\n- Bijan Robinson\n- Jack Strand\n- Tua Tagovail
+ oa\n- Jawaan Taylor\n- Andrew Vorhees\n- Cameron Williams\n- Charlie Woern
+ er\n- Olamide Zaccheaus\n- Yasir Abdullah\n- Billy Bowman Jr.\n- Sydney Br
+ own\n- Kendal Daniels\n- Divine Deablo (Doubtful)\n- Gervon Dexter Sr. (Qu
+ estionable)\n- Brandon Dorlus\n- Mike Ford Jr.\n- Christian Harris\n- Zach
+  Harrison\n- DeMarcco Hellams\n- C.J. Henderson\n- Mike Hughes\n- LaCale L
+ ondon\n- Robert Longerbeam\n- James Pearce Jr. (Questionable)\n- Harold Pe
+ rkins Jr.\n- Jammie Robinson\n- Maason Smith\n- Za'Darius Smith\n- Charles
+  Snowden\n- Avieon Terrell\n- A.J. Terrell Jr.\n- Cameron Thomas\n- Jalon 
+ Walker (Injured Reserve)\n- Xavier Watts\n- Josh Woods (Questionable)\n- J
+ ake Bailey\n- Liam McCullough\n- Jake Moody\n- JD Bertrand (Injured Reserv
+ e)\n- Samson Ebukam (Injured Reserve)\n- Da'Shawn Hand (Injured Reserve)\n
+ - Michael Jerrell (Injured Reserve)\n- DeAngelo Malone (Out)\n- Storm Nort
+ on (Out)\n- Brian Robinson Jr. (Injured Reserve)\n- Trey Sermon (Injured R
+ eserve)\n- Anterio Thompson (Out)\n\nKansas City Chiefs\n- Cyrus Allen\n- 
+ Andrew Armstrong\n- Kahlil Benson\n- Jake Briningstool\n- Mike Caliendo\n-
+  Josh Downs\n- Joshua Ezeudu\n- Justin Fields\n- Noah Gray\n- Creed Humphr
+ ey\n- Emmett Johnson\n- Travis Kelce\n- Patrick Mahomes\n- Jaylon Moore (O
+ ut)\n- Hunter Nourzad\n- Garrett Nussmeier\n- Jaydn Ott (Questionable)\n- 
+ Diego Pounds\n- Rashee Rice\n- Jalen Royals\n- Trey Smith\n- Kingsley Suam
+ ataia\n- Ben VanSumeren\n- Kenneth Walker III (Out)\n- Justin Watson\n- Ja
+ red Wiley\n- Xavier Worthy\n- Felix Anudike-Uzomah\n- Jeffrey Bassa\n- Nic
+ k Bolton\n- Jadon Canady\n- Cole Christiansen\n- Jack Cochrane\n- Chamarri
+  Conner\n- Mansoor Delane (Questionable)\n- Bryson Eason\n- Kristian Fulto
+ n\n- Ashton Gillotte\n- Alohi Gilman\n- Marcus Harris\n- Jaden Hicks\n- Ch
+ ris Jones\n- George Karlaftis\n- Cooper McDonald\n- Xavier Nwankpa\n- Chri
+ s Roland-Wallace\n- Melvin Smith Jr.\n- R Mason Thomas\n- Khyiris Tonga\n-
+  Drue Tranquill\n- Nohl Williams\n- Peter Woods (Out)\n- Matt Araiza\n- Ha
+ rrison Butker\n- James Winchester\n- Jeff Caldwell (Injured Reserve)\n- Et
+ han Downs (Injured Reserve)\n- John Michael Gyllenborg (Injured Reserve)\n
+ - Jimmy Holiday (Injured Reserve)\n- Omarr Norman-Lott (Out)\n- Josh Simmo
+ ns (Injured Reserve)\n- Brashard Smith (Injured Reserve)\n- L'Jarius Sneed
+  (Injured Reserve)\n- Tyquan Thornton (Injured Reserve)\n- Matt Waletzko (
+ Injured Reserve)\nเริ่ม: จ. 16 พ.ย. 01:00 น. (เวล
+ าไทย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873058/chiefs-falcons
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atlanta Falcons - Kansas City Chiefs
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atlanta Falcons - Kansas City Chiefs
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873067@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261123T010000
+DTEND;TZID=Asia/Bangkok:20261123T041500
+SUMMARY:Kansas City Chiefs - Arizona Cardinals
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:เริ่ม: จ. 23 พ.ย. 01:00 น. (เวลาไ
+ ทย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873067/cardinals-chiefs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - Arizona Cardinals
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - Arizona Cardinals
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873082@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261127T082000
+DTEND;TZID=Asia/Bangkok:20261127T113500
+SUMMARY:Buffalo Bills - Kansas City Chiefs
+LOCATION:Highmark Stadium\, Orchard Park\, NY
+DESCRIPTION:เริ่ม: ศ. 27 พ.ย. 08:20 น. (เวลาไ
+ ทย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873082/chiefs-bills
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Buffalo Bills - Kansas City Chiefs
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Buffalo Bills - Kansas City Chiefs
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873096@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261204T081500
+DTEND;TZID=Asia/Bangkok:20261204T113000
+SUMMARY:Los Angeles Rams - Kansas City Chiefs
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:เริ่ม: ศ. 4 ธ.ค. 08:15 น. (เวลาไท
+ ย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873096/chiefs-rams
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Los Angeles Rams - Kansas City Chiefs
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Los Angeles Rams - Kansas City Chiefs
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873119@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261214T042500
+DTEND;TZID=Asia/Bangkok:20261214T074000
+SUMMARY:Cincinnati Bengals - Kansas City Chiefs
+LOCATION:Paycor Stadium\, Cincinnati\, OH
+DESCRIPTION:เริ่ม: จ. 14 ธ.ค. 04:25 น. (เวลาไ
+ ทย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873119/chiefs-bengals
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cincinnati Bengals - Kansas City Chiefs
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cincinnati Bengals - Kansas City Chiefs
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873139@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261222T081500
+DTEND;TZID=Asia/Bangkok:20261222T113000
+SUMMARY:Kansas City Chiefs - New England Patriots
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:เริ่ม: อ. 22 ธ.ค. 08:15 น. (เวลาไ
+ ทย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873139/patriots-chiefs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - New England Patriots
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - New England Patriots
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873153@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261228T042500
+DTEND;TZID=Asia/Bangkok:20261228T074000
+SUMMARY:Kansas City Chiefs - San Francisco 49ers
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:เริ่ม: จ. 28 ธ.ค. 04:25 น. (เวลาไ
+ ทย)
+URL:https://www.espn.com/nfl/game/_/gameId/401873153/49ers-chiefs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - San Francisco 49ers
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - San Francisco 49ers
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873158@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:Los Angeles Chargers - Kansas City Chiefs
+LOCATION:SoFi Stadium\, Inglewood\, CA
+DESCRIPTION:
+URL:https://www.espn.com/nfl/game/_/gameId/401873158/chiefs-chargers
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Los Angeles Chargers - Kansas City Chiefs
+TRIGGER:PT8H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Los Angeles Chargers - Kansas City Chiefs
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-nfl-12-401873178@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Kansas City Chiefs - Las Vegas Raiders
+LOCATION:Arrowhead Stadium\, Kansas City\, MO
+DESCRIPTION:
+URL:https://www.espn.com/nfl/game/_/gameId/401873178/raiders-chiefs
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - Las Vegas Raiders
+TRIGGER:PT8H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Kansas City Chiefs - Las Vegas Raiders
+TRIGGER:PT9H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

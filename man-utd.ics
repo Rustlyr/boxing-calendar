@@ -1,0 +1,1376 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Manchester United
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sportcal-fb-360-401863531@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260718T220000
+DTEND;TZID=Asia/Bangkok:20260718T235057
+SUMMARY:Manchester United - Wrexham
+LOCATION:Helsinki Olympic Stadium\, Helsinki\, Finland
+DESCRIPTION:FINAL : Manchester United LOSE\n0-1\n\n1st Half 0-1\n2nd Half 0
+ -0\n\nGoals:\n39' Sam Smith · Wrexham
+URL:https://www.espn.com/soccer/match/_/gameId/401863531/wrexham-manchester
+ -united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Wrexham
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Wrexham
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401869196@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260724T230000
+DTEND;TZID=Asia/Bangkok:20260725T004405
+SUMMARY:Rosenborg - Manchester United
+LOCATION:Lerkendal Stadion\, Trondheim\, Norway
+DESCRIPTION:FINAL : Manchester United WIN\n0-5\n\n1st Half 0-1\n2nd Half 0-
+ 4\n\nGoals:\n31' Shea Lacey · Manchester United\n56' Joshua Zirkzee · Ma
+ nchester United\n63' Jacob Devaney · Manchester United\n72' Harry Amass 
+ · Manchester United\n84' Ethan Williams · Manchester United
+URL:https://www.espn.com/soccer/match/_/gameId/401869196/manchester-united-
+ rosenborg
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rosenborg - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rosenborg - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401869198@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260801T200000
+DTEND;TZID=Asia/Bangkok:20260801T215416
+SUMMARY:Manchester United - Atlético Madrid
+LOCATION:Friends Arena\, Stockholm\, Sweden
+DESCRIPTION:FINAL : Manchester United WIN\n2-1\n\n1st Half 0-1\n2nd Half 2-
+ 0\n\nGoals:\n5' Arnau Ortiz · Atlético Madrid\n53' Bryan Mbeumo · Manch
+ ester United\n74' Bryan Mbeumo · Manchester United
+URL:https://www.espn.com/soccer/match/_/gameId/401869198/atletico-madrid-ma
+ nchester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Atlético Madrid
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Atlético Madrid
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401868048@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260808T220000
+DTEND;TZID=Asia/Bangkok:20260808T235231
+SUMMARY:Paris Saint-Germain - Manchester United
+LOCATION:Ullevi Stadium\, Gothenburg\, Sweden
+DESCRIPTION:FINAL : Manchester United DRAW\n1-1\n\n1st Half 1-1\n2nd Half 0
+ -0\n\nGoals:\n2' Ibrahim Mbaye · Paris Saint-Germain\n32' Bryan Mbeumo ·
+  Manchester United
+URL:https://www.espn.com/soccer/match/_/gameId/401868048/manchester-united-
+ paris-saint-germain
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Paris Saint-Germain - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Paris Saint-Germain - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401867394@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260813T013000
+DTEND;TZID=Asia/Bangkok:20260813T033357
+SUMMARY:Manchester United - Leeds United
+LOCATION:Croke Park\, Dublin\, Republic of Ireland
+DESCRIPTION:FINAL : Manchester United WIN\n1-1 (pens 5.0-4.0)\n\n1st Half 1
+ -1\n2nd Half 0-0\nExtra Time 1 0-0\nExtra Time 2 0-0\nP5 5-4\n\nGoals:\n16
+ ' Joshua Zirkzee · Manchester United\n29' Brenden Aaronson · Leeds Unite
+ d
+URL:https://www.espn.com/soccer/match/_/gameId/401867394/leeds-united-manch
+ ester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Leeds United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Leeds United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401886562@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260815T214500
+DTEND;TZID=Asia/Bangkok:20260815T234140
+SUMMARY:Manchester United - AC Milan
+LOCATION:Municipal Stadium Wroclaw\, Wroclaw\, Poland
+DESCRIPTION:FINAL : Manchester United LOSE\n2-4\n\n1st Half 1-1\n2nd Half 1
+ -3\n\nGoals:\n2' Harry Maguire · Manchester United\n37' Samuel Chukwueze 
+ · AC Milan\n51' Patrick Dorgu · Manchester United\n57' Alphadjo Cissè 
+ · AC Milan\n68' Gonçalo Ramos · AC Milan\n71' Ruben Loftus-Cheek · AC 
+ Milan
+URL:https://www.espn.com/soccer/match/_/gameId/401886562/ac-milan-mancheste
+ r-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - AC Milan
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - AC Milan
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879322@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260822T183000
+DTEND;TZID=Asia/Bangkok:20260822T202435
+SUMMARY:Hull City - Manchester United
+LOCATION:The MKM Stadium\, Hull\, England
+DESCRIPTION:FINAL : Manchester United LOSE\n2-0\n\n1st Half 2-0\n2nd Half 0
+ -0\n\nGoals:\n17' Semi Ajayi · Hull City\n38' Nobel Mendy · Hull City
+URL:https://www.espn.com/soccer/match/_/gameId/401879322/manchester-united-
+ hull-city
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hull City - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Hull City - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879293@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260830T223000
+DTEND;TZID=Asia/Bangkok:20260831T002646
+SUMMARY:Manchester United - Ipswich Town
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:FINAL : Manchester United WIN\n5-2\n\n1st Half 1-1\n2nd Half 4-
+ 1\n\nGoals:\n29' Leif Davis · Ipswich Town\n40' Bruno Fernandes · Manche
+ ster United\n56' Jacob Greaves (OG) · Manchester United\n61' Bruno Fernan
+ des · Manchester United\n68' Bruno Fernandes · Manchester United\n82' Br
+ yan Mbeumo · Manchester United\n90'+1' Chuba Akpom · Ipswich Town
+URL:https://www.espn.com/soccer/match/_/gameId/401879293/ipswich-town-manch
+ ester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Ipswich Town
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Ipswich Town
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879291@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260906T200000
+DTEND;TZID=Asia/Bangkok:20260906T215653
+SUMMARY:Everton - Manchester United
+LOCATION:Hill Dickinson Stadium\, Liverpool\, England
+DESCRIPTION:FINAL : Manchester United DRAW\n2-2\n\n1st Half 0-0\n2nd Half 2
+ -2\n\nGoals:\n46' Bryan Mbeumo · Manchester United\n83' Tyrique George ·
+  Everton\n88' Benjamin Sesko · Manchester United\n90'+6' Ainsley Maitland
+ -Niles · Everton
+URL:https://www.espn.com/soccer/match/_/gameId/401879291/manchester-united-
+ everton
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Everton - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Everton - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401915442@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260911T020000
+DTEND;TZID=Asia/Bangkok:20260911T035257
+SUMMARY:Manchester United - Sabah FK
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:FINAL : Manchester United WIN\n4-0\n\n1st Half 3-0\n2nd Half 1-
+ 0\n\nGoals:\n27' Matheus Cunha · Manchester United\n42' Bruno Fernandes 
+ · Manchester United\n45' Benjamin Sesko · Manchester United\n68' Lisandr
+ o Martínez · Manchester United
+URL:https://www.espn.com/soccer/match/_/gameId/401915442/sabah-fk-mancheste
+ r-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Sabah FK
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Sabah FK
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879278@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260913T223000
+DTEND;TZID=Asia/Bangkok:20260914T002344
+SUMMARY:Manchester United - Manchester City
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:FINAL : Manchester United LOSE\n0-1\n\n1st Half 0-0\n2nd Half 0
+ -1\n\nGoals:\n60' Erling Haaland · Manchester City
+URL:https://www.espn.com/soccer/match/_/gameId/401879278/manchester-city-ma
+ nchester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Manchester City
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Manchester City
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401914261@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260917T020000
+DTEND;TZID=Asia/Bangkok:20260917T035459
+SUMMARY:Manchester United - Brighton & Hove Albion
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:FINAL : Manchester United LOSE\n2-3\n\n1st Half 2-1\n2nd Half 0
+ -2\n\nGoals:\n8' Shea Lacey · Manchester United\n10' Mason Mount · Manch
+ ester United\n45'+1' Charalambos Kostoulas · Brighton & Hove Albion\n65' 
+ Pascal Gross · Brighton & Hove Albion\n69' Maxim De Cuyper · Brighton & 
+ Hove Albion
+URL:https://www.espn.com/soccer/match/_/gameId/401914261/brighton-hove-albi
+ on-manchester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Brighton & Hove Albion
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Brighton & Hove Albion
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401878777@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20260920T223000
+DTEND;TZID=Asia/Bangkok:20260921T001944
+SUMMARY:Fulham - Manchester United
+LOCATION:Craven Cottage\, London\, England
+DESCRIPTION:FINAL : Manchester United DRAW\n1-1\n\n1st Half 0-0\n2nd Half 1
+ -1\n\nGoals:\n63' Lisandro Martínez (OG) · Fulham\n89' Matheus Cunha · 
+ Manchester United
+URL:https://www.espn.com/soccer/match/_/gameId/401878777/manchester-united-
+ fulham
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fulham - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fulham - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401878773@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261010T233000
+DTEND;TZID=Asia/Bangkok:20261011T012728
+SUMMARY:Manchester United - Tottenham Hotspur
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:FINAL : Manchester United DRAW\n1-1\n\n1st Half 0-0\n2nd Half 1
+ -1\n\nGoals:\n73' Bryan Mbeumo · Manchester United\n90'+2' Dominic Solank
+ e · Tottenham Hotspur
+URL:https://www.espn.com/soccer/match/_/gameId/401878773/tottenham-hotspur-
+ manchester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Tottenham Hotspur
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Tottenham Hotspur
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401915412@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261014T020000
+DTEND;TZID=Asia/Bangkok:20261014T035547
+SUMMARY:Atlético Madrid - Manchester United
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+DESCRIPTION:FINAL : Manchester United LOSE\n2-0\n\n1st Half 1-0\n2nd Half 1
+ -0\n\nGoals:\n1' Pablo Barrios · Atlético Madrid\n79' Ademola Lookman ·
+  Atlético Madrid
+URL:https://www.espn.com/soccer/match/_/gameId/401915412/manchester-united-
+ atletico-madrid
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atlético Madrid - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atlético Madrid - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879260@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261018T200000
+DTEND;TZID=Asia/Bangkok:20261018T215324
+SUMMARY:Leeds United - Manchester United
+LOCATION:Elland Road\, Leeds\, England
+DESCRIPTION:FINAL : Manchester United DRAW\n1-1\n\n1st Half 0-1\n2nd Half 1
+ -0\n\nGoals:\n35' Bryan Mbeumo · Manchester United\n51' Dominic Calvert-L
+ ewin · Leeds United
+URL:https://www.espn.com/soccer/match/_/gameId/401879260/manchester-united-
+ leeds-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leeds United - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leeds United - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401915395@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261021T234500
+DTEND;TZID=Asia/Bangkok:20261022T013820
+SUMMARY:Como - Manchester United
+LOCATION:Giuseppe Sinigaglia\, Como\, Italy
+DESCRIPTION:FINAL : Manchester United LOSE\n4-1\n\n1st Half 1-0\n2nd Half 3
+ -1\n\nGoals:\n2' Nico Paz · Como\n49' Tasos Douvikas · Como\n57' Nico Pa
+ z · Como\n76' Jacobo Ramón · Como\n90'+1' Joshua Zirkzee · Manchester 
+ United
+URL:https://www.espn.com/soccer/match/_/gameId/401915395/manchester-united-
+ como
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Como - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Como - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879252@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261025T210000
+DTEND;TZID=Asia/Bangkok:20261025T225412
+SUMMARY:Manchester United - AFC Bournemouth
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:FINAL : Manchester United LOSE\n0-3\n\n1st Half 0-2\n2nd Half 0
+ -1\n\nGoals:\n38' Rayan · AFC Bournemouth\n43' Marcus Tavernier · AFC Bo
+ urnemouth\n71' Evanilson · AFC Bournemouth
+URL:https://www.espn.com/soccer/match/_/gameId/401879252/afc-bournemouth-ma
+ nchester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - AFC Bournemouth
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - AFC Bournemouth
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879248@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261031T193000
+DTEND;TZID=Asia/Bangkok:20261031T213043
+SUMMARY:Chelsea - Manchester United
+LOCATION:Stamford Bridge\, London\, England
+DESCRIPTION:FINAL : Manchester United LOSE\n2-0\n\n1st Half 0-0\n2nd Half 2
+ -0\n\nGoals:\n50' Morgan Rogers · Chelsea\n64' Cole Palmer · Chelsea
+URL:https://www.espn.com/soccer/match/_/gameId/401879248/manchester-united-
+ chelsea
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Chelsea - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Chelsea - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401915308@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261104T030000
+DTEND;TZID=Asia/Bangkok:20261104T045458
+SUMMARY:Manchester United - AS Roma
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:FINAL : Manchester United WIN\n3-2\n\n1st Half 0-2\n2nd Half 3-
+ 0\n\nGoals:\n11' Matìas Soulè · AS Roma\n17' Donyell Malen · AS Roma\n
+ 58' Bruno Fernandes · Manchester United\n83' Matheus Cunha · Manchester 
+ United\n86' Matheus Cunha · Manchester United
+URL:https://www.espn.com/soccer/match/_/gameId/401915308/as-roma-manchester
+ -united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - AS Roma
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - AS Roma
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879240@rustlyr.github.io
+SEQUENCE:2
+DTSTAMP:20261108T184701Z
+LAST-MODIFIED:20261108T184701Z
+DTSTART;TZID=Asia/Bangkok:20261108T233000
+DTEND;TZID=Asia/Bangkok:20261109T013004
+SUMMARY:Manchester United - Aston Villa
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:FINAL : Manchester United DRAW\n4-4\n\n1st Half 2-2\n2nd Half 2
+ -2\n\nGoals:\n1' Alysson · Aston Villa\n4' Nicolas Jackson · Aston Villa
+ \n16' Bruno Fernandes · Manchester United\n44' Youri Tielemans · Manches
+ ter United\n48' John McGinn · Aston Villa\n53' Leon Goretzka · Aston Vil
+ la\n90'+2' Joshua Zirkzee · Manchester United\n90'+6' Patrick Dorgu · Ma
+ nchester United
+URL:https://www.espn.com/soccer/match/_/gameId/401879240/aston-villa-manche
+ ster-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Aston Villa
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Aston Villa
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401878755@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261122T233000
+DTEND;TZID=Asia/Bangkok:20261123T013000
+SUMMARY:Liverpool - Manchester United
+LOCATION:Anfield\, Liverpool\, England
+DESCRIPTION:English Premier League\nเริ่ม: อา. 22 พ.ย. 23
+ :30 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401878755/manchester-united-
+ liverpool
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Liverpool - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Liverpool - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401915373@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261126T030000
+DTEND;TZID=Asia/Bangkok:20261126T050000
+SUMMARY:Sporting CP - Manchester United
+LOCATION:Estádio José Alvalade\, Lisbon\, Portugal
+DESCRIPTION:UEFA Champions League\nเริ่ม: พฤ. 26 พ.ย. 03:
+ 00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401915373/manchester-united-
+ sporting-cp
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sporting CP - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sporting CP - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879226@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261128T220000
+DTEND;TZID=Asia/Bangkok:20261129T000000
+SUMMARY:Manchester United - Brentford
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 28 พ.ย. 22:00
+  น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879226/brentford-manchest
+ er-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Brentford
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Brentford
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879217@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261203T031500
+DTEND;TZID=Asia/Bangkok:20261203T051500
+SUMMARY:Newcastle United - Manchester United
+LOCATION:St. James' Park\, Newcastle-upon-Tyne\, England
+DESCRIPTION:English Premier League\nเริ่ม: พฤ. 3 ธ.ค. 03:
+ 15 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879217/manchester-united-
+ newcastle-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Newcastle United - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Newcastle United - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879210@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261205T220000
+DTEND;TZID=Asia/Bangkok:20261206T000000
+SUMMARY:Manchester United - Coventry City
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 5 ธ.ค. 22:00 
+ น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879210/coventry-city-manc
+ hester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Coventry City
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Coventry City
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401915371@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261209T030000
+DTEND;TZID=Asia/Bangkok:20261209T050000
+SUMMARY:Manchester United - RB Leipzig
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:UEFA Champions League\nเริ่ม: พ. 9 ธ.ค. 03:00 
+ น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401915371/rb-leipzig-manches
+ ter-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - RB Leipzig
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - RB Leipzig
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879207@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261214T020000
+DTEND;TZID=Asia/Bangkok:20261214T040000
+SUMMARY:Crystal Palace - Manchester United
+LOCATION:Selhurst Park\, London\, England
+DESCRIPTION:English Premier League\nเริ่ม: จ. 14 ธ.ค. 02:00
+  น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879207/manchester-united-
+ crystal-palace
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Crystal Palace - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Crystal Palace - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879204@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261220T233000
+DTEND;TZID=Asia/Bangkok:20261221T013000
+SUMMARY:Arsenal - Manchester United
+LOCATION:Emirates Stadium\, London\, England
+DESCRIPTION:English Premier League\nเริ่ม: อา. 20 ธ.ค. 23
+ :30 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879204/manchester-united-
+ arsenal
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arsenal - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Arsenal - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879195@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261227T233000
+DTEND;TZID=Asia/Bangkok:20261228T013000
+SUMMARY:Manchester United - Nottingham Forest
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: อา. 27 ธ.ค. 23
+ :30 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879195/nottingham-forest-
+ manchester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Nottingham Forest
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Nottingham Forest
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879188@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20261231T023000
+DTEND;TZID=Asia/Bangkok:20261231T043000
+SUMMARY:Manchester United - Sunderland
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: พฤ. 31 ธ.ค. 02
+ :30 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879188/sunderland-manches
+ ter-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Sunderland
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Sunderland
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401878728@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270102T193000
+DTEND;TZID=Asia/Bangkok:20270102T213000
+SUMMARY:Brighton & Hove Albion - Manchester United
+LOCATION:American Express Stadium\, Falmer\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 2 ม.ค. 19:30 
+ น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401878728/manchester-united-
+ brighton-hove-albion
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Brighton & Hove Albion - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Brighton & Hove Albion - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879170@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270108T030000
+DTEND;TZID=Asia/Bangkok:20270108T050000
+SUMMARY:Manchester United - Newcastle United
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: ศ. 8 ม.ค. 03:00 
+ น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879170/newcastle-united-m
+ anchester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Newcastle United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Newcastle United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401878725@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270116T220000
+DTEND;TZID=Asia/Bangkok:20270117T000000
+SUMMARY:Aston Villa - Manchester United
+LOCATION:Villa Park\, Birmingham\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 16 ม.ค. 22:00
+  น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401878725/manchester-united-
+ aston-villa
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Aston Villa - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Aston Villa - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401915357@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270121T030000
+DTEND;TZID=Asia/Bangkok:20270121T050000
+SUMMARY:Manchester United - Bayern Munich
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:UEFA Champions League\nเริ่ม: พฤ. 21 ม.ค. 03:
+ 00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401915357/bayern-munich-manc
+ hester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Bayern Munich
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Bayern Munich
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401878718@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270123T220000
+DTEND;TZID=Asia/Bangkok:20270124T000000
+SUMMARY:Manchester United - Liverpool
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 23 ม.ค. 22:00
+  น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401878718/liverpool-manchest
+ er-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Liverpool
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Liverpool
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401915349@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270128T030000
+DTEND;TZID=Asia/Bangkok:20270128T050000
+SUMMARY:Villarreal - Manchester United
+LOCATION:Estadio de la Cerámica\, Villarreal\, Spain
+DESCRIPTION:UEFA Champions League\nเริ่ม: พฤ. 28 ม.ค. 03:
+ 00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401915349/manchester-united-
+ villarreal
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Villarreal - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Villarreal - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401878715@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270130T220000
+DTEND;TZID=Asia/Bangkok:20270131T000000
+SUMMARY:Brentford - Manchester United
+LOCATION:Gtech Community Stadium\, Brentford\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 30 ม.ค. 22:00
+  น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401878715/manchester-united-
+ brentford
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Brentford - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Brentford - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879148@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270206T220000
+DTEND;TZID=Asia/Bangkok:20270207T000000
+SUMMARY:Manchester United - Chelsea
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 6 ก.พ. 22:00 
+ น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879148/chelsea-manchester
+ -united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Chelsea
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Chelsea
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879142@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270211T030000
+DTEND;TZID=Asia/Bangkok:20270211T050000
+SUMMARY:Manchester United - Brighton & Hove Albion
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: พฤ. 11 ก.พ. 03
+ :00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879142/brighton-hove-albi
+ on-manchester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Brighton & Hove Albion
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Brighton & Hove Albion
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879134@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270220T220000
+DTEND;TZID=Asia/Bangkok:20270221T000000
+SUMMARY:Nottingham Forest - Manchester United
+LOCATION:The City Ground\, Nottingham\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 20 ก.พ. 22:00
+  น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879134/manchester-united-
+ nottingham-forest
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nottingham Forest - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Nottingham Forest - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401878697@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270227T220000
+DTEND;TZID=Asia/Bangkok:20270228T000000
+SUMMARY:Manchester United - Arsenal
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 27 ก.พ. 22:00
+  น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401878697/arsenal-manchester
+ -united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Arsenal
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Arsenal
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879122@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270304T030000
+DTEND;TZID=Asia/Bangkok:20270304T050000
+SUMMARY:Sunderland - Manchester United
+LOCATION:Stadium of Light\, Sunderland\, England
+DESCRIPTION:English Premier League\nเริ่ม: พฤ. 4 มี.ค. 
+ 03:00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879122/manchester-united-
+ sunderland
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sunderland - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sunderland - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879118@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270313T220000
+DTEND;TZID=Asia/Bangkok:20270314T000000
+SUMMARY:Manchester United - Everton
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 13 มี.ค. 22
+ :00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879118/everton-manchester
+ -united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Everton
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Everton
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879108@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270320T220000
+DTEND;TZID=Asia/Bangkok:20270321T000000
+SUMMARY:Manchester City - Manchester United
+LOCATION:Etihad Stadium\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 20 มี.ค. 22
+ :00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879108/manchester-united-
+ manchester-city
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester City - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester City - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879100@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270410T210000
+DTEND;TZID=Asia/Bangkok:20270410T230000
+SUMMARY:Manchester United - Hull City
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 10 เม.ย. 21
+ :00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879100/hull-city-manchest
+ er-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Hull City
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Hull City
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879096@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270417T210000
+DTEND;TZID=Asia/Bangkok:20270417T230000
+SUMMARY:Ipswich Town - Manchester United
+LOCATION:Portman Road\, Ipswich\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 17 เม.ย. 21
+ :00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879096/manchester-united-
+ ipswich-town
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ipswich Town - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Ipswich Town - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879091@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270424T210000
+DTEND;TZID=Asia/Bangkok:20270424T230000
+SUMMARY:Manchester United - Crystal Palace
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 24 เม.ย. 21
+ :00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879091/crystal-palace-man
+ chester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Crystal Palace
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Crystal Palace
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401878675@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270501T210000
+DTEND;TZID=Asia/Bangkok:20270501T230000
+SUMMARY:Coventry City - Manchester United
+LOCATION:Coventry Building Society Arena\, Coventry\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 1 พ.ค. 21:00 
+ น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401878675/manchester-united-
+ coventry-city
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coventry City - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Coventry City - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401878672@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270508T210000
+DTEND;TZID=Asia/Bangkok:20270508T230000
+SUMMARY:AFC Bournemouth - Manchester United
+LOCATION:Vitality Stadium\, Bournemouth\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 8 พ.ค. 21:00 
+ น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401878672/manchester-united-
+ afc-bournemouth
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AFC Bournemouth - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AFC Bournemouth - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879074@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270515T210000
+DTEND;TZID=Asia/Bangkok:20270515T230000
+SUMMARY:Manchester United - Leeds United
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: ส. 15 พ.ค. 21:00
+  น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879074/leeds-united-manch
+ ester-united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Leeds United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Leeds United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879065@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270523T210000
+DTEND;TZID=Asia/Bangkok:20270523T230000
+SUMMARY:Tottenham Hotspur - Manchester United
+LOCATION:Tottenham Hotspur Stadium\, London\, England
+DESCRIPTION:English Premier League\nเริ่ม: อา. 23 พ.ค. 21
+ :00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879065/manchester-united-
+ tottenham-hotspur
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tottenham Hotspur - Manchester United
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tottenham Hotspur - Manchester United
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-fb-360-401879058@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261106T220159Z
+LAST-MODIFIED:20261106T220159Z
+DTSTART;TZID=Asia/Bangkok:20270530T220000
+DTEND;TZID=Asia/Bangkok:20270531T000000
+SUMMARY:Manchester United - Fulham
+LOCATION:Old Trafford\, Manchester\, England
+DESCRIPTION:English Premier League\nเริ่ม: อา. 30 พ.ค. 22
+ :00 น. (เวลาไทย)
+URL:https://www.espn.com/soccer/match/_/gameId/401879058/fulham-manchester-
+ united
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Fulham
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Manchester United - Fulham
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

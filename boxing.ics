@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boxing (PBC / Riyadh / DAZN / Netflix)
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:boxcal-1000000049@boxingscene.com
+SEQUENCE:4
+DTSTAMP:20261106T191704Z
+LAST-MODIFIED:20261106T191704Z
+DTSTART;TZID=Asia/Bangkok:20261114T230000
+DTEND;TZID=Asia/Bangkok:20261115T030000
+SUMMARY:Carlos Adames vs Gerome Warburton
+LOCATION:The Venue\, Riyadh
+DESCRIPTION:Carlos Adames Vs. Gerome Warburton\nJason Moloney Vs. Andres Te
+ ran\nBruno Surace Vs. Kamil Bednarek\nIvan Ortiz Vs. Dariial Kuchmenov\nRa
+ dzhab Butaev Vs. Alexander Castro\n\nถ่ายทอด: Sky Sports\, P
+ aramount+\nเริ่ม: ส. 14 พ.ย. 23:00 น. (เวลาไ
+ ทย)\nhttps://www.boxingscene.com/events/carlos-adames-vs-gerome-warbur
+ ton
+URL:https://www.boxingscene.com/events/carlos-adames-vs-gerome-warburton
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Carlos Adames vs Gerome Warburton
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Carlos Adames vs Gerome Warburton
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7993@boxingscene.com
+SEQUENCE:4
+DTSTAMP:20261106T191704Z
+LAST-MODIFIED:20261106T191704Z
+DTSTART;TZID=Asia/Bangkok:20261115T073000
+DTEND;TZID=Asia/Bangkok:20261115T113000
+SUMMARY:Diego Pacheco vs Darius Fulghum
+LOCATION:Dignity Health Sports Park\, Carson\, California
+DESCRIPTION:Diego Pacheco Vs. Darius Fulghum\nDavid Adeleye Vs. Alexander F
+ lores\nCharlie Sheehy Vs. Gabe Flores\nFrank Espinoza Vs. Abisai Torres Di
+ az\nAnthony Olascuaga Vs. Yuberjen Martinez\n\nถ่ายทอด: DAZN
+ \nเริ่ม: อา. 15 พ.ย. 07:30 น. (เวลาไทย)\
+ nhttps://www.boxingscene.com/events/diego-pacheco-darius-fulghum
+URL:https://www.boxingscene.com/events/diego-pacheco-darius-fulghum
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diego Pacheco vs Darius Fulghum
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diego Pacheco vs Darius Fulghum
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-8092@boxingscene.com
+SEQUENCE:1
+DTSTAMP:20261106T171704Z
+LAST-MODIFIED:20261106T171704Z
+DTSTART;TZID=Asia/Bangkok:20261121T080000
+DTEND;TZID=Asia/Bangkok:20261121T120000
+SUMMARY:Gabriela Fundora vs Jasmina Zapotoczna
+LOCATION:Fantasy Springs Resort Casino\, Indio\, California
+DESCRIPTION:Gabriela Fundora Vs. Jasmina Zapotoczna\nAmari Jones Vs. DeAund
+ re Pettus\n\nถ่ายทอด: DAZN\nเริ่ม: ส. 21 พ.ย
+ . 08:00 น. (เวลาไทย)\nhttps://www.boxingscene.com/events/g
+ abriela-fundora-jasmina-zapotoczna
+URL:https://www.boxingscene.com/events/gabriela-fundora-jasmina-zapotoczna
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gabriela Fundora vs Jasmina Zapotoczna
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Gabriela Fundora vs Jasmina Zapotoczna
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7926@boxingscene.com
+SEQUENCE:2
+DTSTAMP:20261106T171704Z
+LAST-MODIFIED:20261106T171704Z
+DTSTART;TZID=Asia/Bangkok:20261129T010000
+DTEND;TZID=Asia/Bangkok:20261129T050000
+SUMMARY:Agit Kabayel vs Nelson Hysa
+LOCATION:Merkur Spiel-Arena\, Düsseldorf\, Germany
+DESCRIPTION:Agit Kabayel Vs. Nelson Hysa\n\nถ่ายทอด: DAZN\n
+ เริ่ม: อา. 29 พ.ย. 01:00 น. (เวลาไทย)\nh
+ ttps://www.boxingscene.com/events/agit-kabayel-nelson-hysa
+URL:https://www.boxingscene.com/events/agit-kabayel-nelson-hysa
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agit Kabayel vs Nelson Hysa
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Agit Kabayel vs Nelson Hysa
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-1000000050@boxingscene.com
+SEQUENCE:1
+DTSTAMP:20261106T131705Z
+LAST-MODIFIED:20261106T131705Z
+DTSTART;TZID=Asia/Bangkok:20261206T080000
+DTEND;TZID=Asia/Bangkok:20261206T120000
+SUMMARY:David Benavidez vs Michal Cieslak
+LOCATION:Desert Diamond Arena\, Glendale\, Arizona
+DESCRIPTION:David Benavidez Vs. Michal Cieslak\nVergil Ortiz Jr. Vs. Keith 
+ Thurman\nEmiliano Vargas Vs. Omar Juarez\nNikita Tszyu Vs. Roberto Valenzu
+ ela Jr.\nMarco Romero Vs. Cruse Stewart\n\nถ่ายทอด: DAZN & P
+ rime Video\nเริ่ม: อา. 6 ธ.ค. 08:00 น. (เวลา
+ ไทย)\nhttps://www.boxingscene.com/events/david-benavidez-vs-micha-ci
+ eslak
+URL:https://www.boxingscene.com/events/david-benavidez-vs-micha-cieslak
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:David Benavidez vs Michal Cieslak
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:David Benavidez vs Michal Cieslak
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7893@boxingscene.com
+SEQUENCE:3
+DTSTAMP:20261106T171704Z
+LAST-MODIFIED:20261106T171704Z
+DTSTART;TZID=Asia/Bangkok:20261212T080000
+DTEND;TZID=Asia/Bangkok:20261212T120000
+SUMMARY:Tyson Fury vs Anthony Joshua
+LOCATION:Principality Stadium\, Cardiff\, United Kingdom
+DESCRIPTION:Tyson Fury Vs. Anthony Joshua\nDeontay Wilder Vs. Jai Opetaia\n
+ Frazer Clarke Vs. Joseph Parker\n\nถ่ายทอด: Netflix\nเร
+ ิ่ม: ส. 12 ธ.ค. 08:00 น. (เวลาไทย)\nhttps://ww
+ w.boxingscene.com/events/tyson-fury-anthony-joshua
+URL:https://www.boxingscene.com/events/tyson-fury-anthony-joshua
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tyson Fury vs Anthony Joshua
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tyson Fury vs Anthony Joshua
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-1000000045@boxingscene.com
+SEQUENCE:3
+DTSTAMP:20261110T181706Z
+LAST-MODIFIED:20261110T181706Z
+DTSTART;TZID=Asia/Bangkok:20261213T063000
+DTEND;TZID=Asia/Bangkok:20261213T103000
+SUMMARY:Tim Tszyu vs Erislandy Lara
+LOCATION:Cbus Super Stadium\, Gold Coast\, Australia
+DESCRIPTION:Tim Tszyu Vs. Erislandy Lara\nJermell Charlo Vs. Brock Jarvis\n
+ Liam Wilson Vs. Elnur Samedov\nKirra Ruston Vs. Sanderson Diaz\nCallum Pet
+ ers Vs. Saulo Saldivar\n\nถ่ายทอด: DAZN\nเริ่ม: 
+ อา. 13 ธ.ค. 06:30 น. (เวลาไทย)\nhttps://www.boxing
+ scene.com/events/tim-tszyu-vs-erislandy-lara
+URL:https://www.boxingscene.com/events/tim-tszyu-vs-erislandy-lara
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tim Tszyu vs Erislandy Lara
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Tim Tszyu vs Erislandy Lara
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-7691@boxingscene.com
+SEQUENCE:2
+DTSTAMP:20261106T171704Z
+LAST-MODIFIED:20261106T171704Z
+DTSTART;TZID=Asia/Bangkok:20261212T210000
+DTEND;TZID=Asia/Bangkok:20261213T010000
+SUMMARY:Dmitry Bivol vs Callum Smith
+LOCATION:UMMC Arena\, Yekaterinburg\, Russia
+DESCRIPTION:Dmitry Bivol Vs. Callum Smith\n\nถ่ายทอด: DAZN\n
+ เริ่ม: ส. 12 ธ.ค. 21:00 น. (เวลาไทย\, ต
+ ารางถ่ายทอด DAZN)\nhttps://www.boxingscene.com/event
+ s/dmitry-bivol-callum-smith
+URL:https://www.boxingscene.com/events/dmitry-bivol-callum-smith
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dmitry Bivol vs Callum Smith
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Dmitry Bivol vs Callum Smith
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:boxcal-1000000044@boxingscene.com
+SEQUENCE:1
+DTSTAMP:20261106T131705Z
+LAST-MODIFIED:20261106T131705Z
+DTSTART;TZID=Asia/Bangkok:20261220T080000
+DTEND;TZID=Asia/Bangkok:20261220T120000
+SUMMARY:Devin Haney vs Liam Paro
+LOCATION:Chase Center\, San Francisco\, California
+DESCRIPTION:Devin Haney Vs. Liam Paro\nBrian Norman Jr. Vs. Abel Ramos\n\n
+ ถ่ายทอด: DAZN\nเริ่ม: อา. 20 ธ.ค. 08:00 
+ น. (เวลาไทย)\nhttps://www.boxingscene.com/events/devin-han
+ ey-vs-liam-paro
+URL:https://www.boxingscene.com/events/devin-haney-vs-liam-paro
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Devin Haney vs Liam Paro
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Devin Haney vs Liam Paro
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

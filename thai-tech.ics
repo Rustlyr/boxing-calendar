@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Thai Tech Events
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sportcal-impact-digitech-asean-thailand-ai-connect-2026@rustlyr.github.
+ io
+SEQUENCE:0
+DTSTAMP:20261101T215808Z
+LAST-MODIFIED:20261101T215808Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261128
+SUMMARY:DigiTech ASEAN Thailand & AI Connect 2026
+LOCATION:IMPACT Muang Thong Thani
+DESCRIPTION:งานแสดงสินค้าและสัมมน
+ าด้านเทคโนโลยีและดิจิทัล
+ เพื่อธุรกิจ จัดขึ้นภายใต้
+ แนวคิด “Digital Solutions for Business” จัดร่ว
+ มกับ AI Connect 2026 ที่มุ่งนำเสนอโซ
+ ลูชัน AI…\nเข้าชมฟรี\nเปิด 10:00-18:
+ 00 น.
+URL:https://www.impact.co.th/en/visitors/event-calendar/exhibition-trade/di
+ gitech-asean-thailand-ai-connect-2026
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DigiTech ASEAN Thailand & AI Connect 2026
+TRIGGER:-PT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:DigiTech ASEAN Thailand & AI Connect 2026
+TRIGGER:PT10H0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

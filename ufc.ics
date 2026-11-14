@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//boxcal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UFC
+X-WR-TIMEZONE:Asia/Bangkok
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Bangkok
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:+07
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:sportcal-ufc-600061400@rustlyr.github.io
+SEQUENCE:3
+DTSTAMP:20261112T004702Z
+LAST-MODIFIED:20261112T004702Z
+DTSTART;TZID=Asia/Bangkok:20261115T050000
+DTEND;TZID=Asia/Bangkok:20261115T120000
+SUMMARY:UFC 334: Gane vs. Hokit
+LOCATION:Madison Square Garden\, New York\, NY
+DESCRIPTION:Early Prelims\n\n• Elder VS Sanches\n\n• Alatengheili VS Di
+ az\n\n• Chiasson VS Mesquita\n\n• Gordon VS Costa\n\nPrelims\n\n• Jo
+ hnson VS Almeida\n\n• Miller VS McKinney\n\n• Dober VS Duncan\n\n• T
+ hompson VS Radtke\n\nMain Card\n\n• Hasan VS Gurule\n\n• Medić VS Hol
+ land\n\n• Borralho VS Belgaroui\n\n• Harrison VS Nunes\n\n• Gane VS 
+ Hokit\nเริ่ม: อา. 15 พ.ย. 05:00 น. (เวลาไท
+ ย)
+URL:https://www.espn.com/mma/fightcenter/_/id/600061400/league/ufc
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UFC 334: Gane vs. Hokit
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UFC 334: Gane vs. Hokit
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-ufc-600061665@rustlyr.github.io
+SEQUENCE:1
+DTSTAMP:20261114T064701Z
+LAST-MODIFIED:20261114T064701Z
+DTSTART;TZID=Asia/Bangkok:20261121T220000
+DTEND;TZID=Asia/Bangkok:20261122T050000
+SUMMARY:UFC Fight Night: Procházka vs. Stirling
+LOCATION:ABHA Arena\, Doha\, Qatar
+DESCRIPTION:Prelims\n\n• Nurgozhay VS Lorenz\n\n• Motta VS Mar Fan\n\n
+ • Matthews VS Abdullayev\n\n• Albazi VS Costa\n\n• Gaziev VS Teixeir
+ a\n\nMain Card\n\n• Topuria VS Luna\n\n• Cannonier VS Aliskerov\n\n•
+  Horiguchi VS Almabayev\n\n• Hooker VS Ortega\n\n• Sterling VS Vallejo
+ s\n\n• Procházka VS Stirling\nเริ่ม: ส. 21 พ.ย. 22:00 
+ น. (เวลาไทย)
+URL:https://www.espn.com/mma/fightcenter/_/id/600061665/league/ufc
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UFC Fight Night: Procházka vs. Stirling
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UFC Fight Night: Procházka vs. Stirling
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-ufc-600062700@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261206T010000
+DTEND;TZID=Asia/Bangkok:20261206T080000
+SUMMARY:UFC Fight Night: Adesanya vs Magomedov
+LOCATION:
+DESCRIPTION:เริ่ม: อา. 6 ธ.ค. 01:00 น. (เวลาไ
+ ทย)
+URL:https://www.espn.com/mma/fightcenter/_/id/600062700/league/ufc
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UFC Fight Night: Adesanya vs Magomedov
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UFC Fight Night: Adesanya vs Magomedov
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sportcal-ufc-600061401@rustlyr.github.io
+SEQUENCE:0
+DTSTAMP:20261110T110542Z
+LAST-MODIFIED:20261110T110542Z
+DTSTART;TZID=Asia/Bangkok:20261213T080000
+DTEND;TZID=Asia/Bangkok:20261213T150000
+SUMMARY:UFC 335: Oliveira vs. Lopes
+LOCATION:
+DESCRIPTION:เริ่ม: อา. 13 ธ.ค. 08:00 น. (เวลา
+ ไทย)
+URL:https://www.espn.com/mma/fightcenter/_/id/600061401/league/ufc
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UFC 335: Oliveira vs. Lopes
+TRIGGER:-PT1H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UFC 335: Oliveira vs. Lopes
+TRIGGER:PT0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
