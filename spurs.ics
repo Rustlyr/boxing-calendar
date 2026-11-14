@@ -429,9 +429,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sportcal-nba-401910027@rustlyr.github.io
-SEQUENCE:1
-DTSTAMP:20261114T174701Z
-LAST-MODIFIED:20261114T174701Z
+SEQUENCE:2
+DTSTAMP:20261114T183542Z
+LAST-MODIFIED:20261114T183542Z
 DTSTART;TZID=Asia/Bangkok:20261122T080000
 DTEND;TZID=Asia/Bangkok:20261122T103000
 SUMMARY:San Antonio Spurs - New Orleans Pelicans
@@ -443,10 +443,10 @@ DESCRIPTION:San Antonio Spurs\n- Harrison Barnes\n- Maliq Brown\n- Carter B
  )\n- Tarris Reed Jr.\n- Devin Vassell\n- Victor Wembanyama\n\nNew Orleans 
  Pelicans\n- Saddiq Bey\n- Malik Dia\n- Jeremiah Fears\n- AJ Johnson\n- Her
  bert Jones\n- DeAndre Jordan\n- Bennedict Mathurin\n- Karlo Matkovic\n- Br
- yce McGowens (Day-To-Day)\n- Yves Missi (Out)\n- Trey Murphy III (Out)\n- 
- Dejounte Murray (Out)\n- Jaron Pierre Jr.\n- Jordan Poole\n- Derik Queen\n
- - Julian Reese\n- Trendon Watford (Out)\n- Zion Williamson\nเริ่
- ม: อา. 22 พ.ย. 08:00 น. (เวลาไทย)
+ yce McGowens (Out)\n- Yves Missi (Out)\n- Trey Murphy III (Out)\n- Dejount
+ e Murray (Out)\n- Jaron Pierre Jr.\n- Jordan Poole\n- Derik Queen\n- Julia
+ n Reese\n- Trendon Watford (Out)\n- Zion Williamson\nเริ่ม: อ
+ า. 22 พ.ย. 08:00 น. (เวลาไทย)
 URL:https://www.espn.com/nba/game/_/gameId/401910027/pelicans-spurs
 STATUS:CONFIRMED
 BEGIN:VALARM
